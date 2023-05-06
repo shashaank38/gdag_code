@@ -1,0 +1,1638 @@
+[[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 1], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 1], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 1], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, 1], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 1, 1, -1], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 1, 1, -1, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 1, 1, -1, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 1, 1, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 1, 1, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, -1, 1, 1, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0.0, 0.0, 0.0, 0.0, -1.0, 0.0, 0.0, -1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, -2.0], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 1, 0, 0, 1, -1], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 1, 0, 0, 1, -1, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 1, 0, 0, 1, -1, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 1, 0, 0, 1, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 1, 0, 0, 1, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, -1, 1, 0, 0, 1, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0.0, 0.0, -1.0, 1.0, 0.0, 0.0, 0.0, -1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, -1.0], [0.0, 0.0, -1.0, 1.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, -1.0, 0.0, 0.0, 0.0, 0.0, 0.0, -1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 1, 0, 0, 0, 0, 0, 0, 1, -1], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 1, 0, 0, 0, 0, 0, 0, 1, -1, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 1, 0, 0, 0, 0, 0, 0, 1, -1, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 1, 0, 0, 0, 0, 0, 0, 1, -1, 0, 0, 0, 0, 0, 0], [0.0, 0.0, 0.0, 0.0, -1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, -1.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, -1.0], [0, 0, -1, 1, 0, 0, 0, 0, 0, 0, 1, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0.0, 0.0, -1.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, -1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, -1], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, -1, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, -1, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, -1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, -1, 0, 0, 0, 0, 0, 0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, -1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, -2.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0], [0.0, 0.0, 0.0, 0.0, -1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, -1.0], [0, 0, -1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0.0, 0.0, -1.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, -1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 1, 0, 1, 0, -1], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 1, 0, 1, 0, -1, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 1, 0, 1, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 1, 0, 1, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 1, 0, 1, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 1, 0, 1, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [-1.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, -1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, -1.0], [-1.0, 0.0, 1.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, -1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, -1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 1, 0, 0, 0, 0, 0, 1, 0, -1], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 1, 0, 0, 0, 0, 0, 1, 0, -1, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 1, 0, 0, 0, 0, 0, 1, 0, -1, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 1, 0, 0, 0, 0, 0, 1, 0, -1, 0, 0, 0, 0, 0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, -2.0, 0.0, 0.0, 0.0, 0.0, 0.0, -1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0], [0.0, 0.0, 0.0, 0.0, -1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, -1.0], [-1.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, -1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [-1, 0, 1, 0, 0, 0, 0, 0, 1, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, -1], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, -1, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, -1, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, -1, 0, 0, 0, 0, 0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, -1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, -1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0], [0.0, 0.0, 0.0, 0.0, -1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, -1.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, -1.0], [-1.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, -1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [-1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, -1], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, -1, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, -1, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, -1, 0, 0, 0], [0, 0, 0, -1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0.0, 0.0, -1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, -1.0], [-1.0, 0.0, 1.0, -1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, -1.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, -1.0], [-1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, -1], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, -1, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, -1, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, -1, 0, 0, 0], [0, 0, 0, -1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0], [0.0, 0.0, -1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, -1.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, -1.0], [-1.0, 0.0, 1.0, -1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, -1.0], [-1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, -1], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, -1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, -1.0, 1.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, -1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, -1.0, 0.0, 1.0], [0, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0], [0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0], [0, 0, -1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0], [-1.0, 0.0, 1.0, -1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, -1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [-1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0]] 83
+This is the C_cone after removing constraints....Looks good because its has some elements in decimals now.....and the remove constraint was atleast doing the calculations correctly
+-378161743822.8217 False 3 The algorithm terminated successfully and determined that the problem is unbounded.
+0
+-134305366652.26263 False 3 The algorithm terminated successfully and determined that the problem is unbounded.
+1
+-518356776372.35895 False 3 The algorithm terminated successfully and determined that the problem is unbounded.
+2
+-20072831909.687897 False 3 The algorithm terminated successfully and determined that the problem is unbounded.
+3
+-16264258626.112629 False 3 The algorithm terminated successfully and determined that the problem is unbounded.
+4
+-36815041.482647896 False 3 The algorithm terminated successfully and determined that the problem is unbounded.
+5
+-12927006.458976388 False 3 The algorithm terminated successfully and determined that the problem is unbounded.
+6
+3.661559944134751e-11 True 0 Optimization terminated successfully.
+7
+-44491437.131091475 False 3 The algorithm terminated successfully and determined that the problem is unbounded.
+8
+1.0861533894512831e-10 True 0 Optimization terminated successfully.
+9
+-46905975.79573053 False 3 The algorithm terminated successfully and determined that the problem is unbounded.
+10
+1.5150103394034886e-11 True 0 Optimization terminated successfully.
+11
+-24082479.808221936 False 3 The algorithm terminated successfully and determined that the problem is unbounded.
+12
+-133601129304.86426 False 3 The algorithm terminated successfully and determined that the problem is unbounded.
+13
+-1.4989645080731862e-09 True 0 Optimization terminated successfully.
+14
+-125207727498.20166 False 3 The algorithm terminated successfully and determined that the problem is unbounded.
+15
+-178906561997.38477 False 3 The algorithm terminated successfully and determined that the problem is unbounded.
+16
+-24884745.05057043 False 3 The algorithm terminated successfully and determined that the problem is unbounded.
+17
+-4.7659876045713645e-11 True 0 Optimization terminated successfully.
+18
+-116338570.06899238 False 3 The algorithm terminated successfully and determined that the problem is unbounded.
+19
+-122227986.57241893 False 3 The algorithm terminated successfully and determined that the problem is unbounded.
+20
+-159188066.63870502 False 3 The algorithm terminated successfully and determined that the problem is unbounded.
+21
+-21867540.041946054 False 3 The algorithm terminated successfully and determined that the problem is unbounded.
+22
+-44615472.29168469 False 3 The algorithm terminated successfully and determined that the problem is unbounded.
+23
+-5.0876636237262574e-11 True 0 Optimization terminated successfully.
+24
+-1.059841103767667e-11 True 0 Optimization terminated successfully.
+25
+-265504535.58734035 False 3 The algorithm terminated successfully and determined that the problem is unbounded.
+26
+-3.794653480326815e-11 True 0 Optimization terminated successfully.
+27
+-1.7195578294604275e-11 True 0 Optimization terminated successfully.
+28
+-62189269226.39209 False 3 The algorithm terminated successfully and determined that the problem is unbounded.
+29
+-12852107.516943097 False 3 The algorithm terminated successfully and determined that the problem is unbounded.
+30
+-1.0720313525780512e-10 True 0 Optimization terminated successfully.
+31
+5.196953978270358e-12 True 0 Optimization terminated successfully.
+32
+-8.592548894625907e-11 True 0 Optimization terminated successfully.
+33
+-54036001.86271 False 3 The algorithm terminated successfully and determined that the problem is unbounded.
+34
+-25350361.830264688 False 3 The algorithm terminated successfully and determined that the problem is unbounded.
+35
+-301509803.7406616 False 3 The algorithm terminated successfully and determined that the problem is unbounded.
+36
+-270121013785.06055 False 3 The algorithm terminated successfully and determined that the problem is unbounded.
+37
+-19947400.71224135 False 3 The algorithm terminated successfully and determined that the problem is unbounded.
+38
+-2.084385108958031e-09 True 0 Optimization terminated successfully.
+39
+-114331461434.54932 False 3 The algorithm terminated successfully and determined that the problem is unbounded.
+40
+-1.1013157052985889e-10 True 0 Optimization terminated successfully.
+41
+-44996297.8691231 False 3 The algorithm terminated successfully and determined that the problem is unbounded.
+42
+-5.1414428270391e-11 True 0 Optimization terminated successfully.
+43
+-2.666267207018791e-11 True 0 Optimization terminated successfully.
+44
+-29818612718.000854 False 3 The algorithm terminated successfully and determined that the problem is unbounded.
+45
+-196863874246.06934 False 3 The algorithm terminated successfully and determined that the problem is unbounded.
+46
+-7.58548779344892e-11 True 0 Optimization terminated successfully.
+47
+3.6850522633358196e-12 True 0 Optimization terminated successfully.
+48
+-2.015484446005189e-10 True 0 Optimization terminated successfully.
+49
+-36090752.453232914 False 3 The algorithm terminated successfully and determined that the problem is unbounded.
+50
+-128217550.67944145 False 3 The algorithm terminated successfully and determined that the problem is unbounded.
+51
+-153293739.29552603 False 3 The algorithm terminated successfully and determined that the problem is unbounded.
+52
+-15067344.964929938 False 3 The algorithm terminated successfully and determined that the problem is unbounded.
+53
+-27138253.983632863 False 3 The algorithm terminated successfully and determined that the problem is unbounded.
+54
+-256957570.15429783 False 3 The algorithm terminated successfully and determined that the problem is unbounded.
+55
+-2.1385115900329765e-11 True 0 Optimization terminated successfully.
+56
+-1.1423650914110794e-10 True 0 Optimization terminated successfully.
+57
+-83480691.05721712 False 3 The algorithm terminated successfully and determined that the problem is unbounded.
+58
+-85701823.16715634 False 3 The algorithm terminated successfully and determined that the problem is unbounded.
+59
+-3.692437466895626e-10 True 0 Optimization terminated successfully.
+60
+-40184203.542048454 False 3 The algorithm terminated successfully and determined that the problem is unbounded.
+61
+-21081290.35617608 False 3 The algorithm terminated successfully and determined that the problem is unbounded.
+62
+2.2516655207027725e-11 True 0 Optimization terminated successfully.
+63
+1.839395302738467e-11 True 0 Optimization terminated successfully.
+64
+8.99398333586987e-11 True 0 Optimization terminated successfully.
+65
+-19187153.768324465 False 3 The algorithm terminated successfully and determined that the problem is unbounded.
+66
+-147554802.38413835 False 3 The algorithm terminated successfully and determined that the problem is unbounded.
+67
+-237673926.72233582 False 3 The algorithm terminated successfully and determined that the problem is unbounded.
+68
+-9.345546558847673e-11 True 0 Optimization terminated successfully.
+69
+-47370392.75907695 False 3 The algorithm terminated successfully and determined that the problem is unbounded.
+70
+3.729550002162796e-11 True 0 Optimization terminated successfully.
+71
+1.665885207557949e-10 True 0 Optimization terminated successfully.
+72
+2.3126500714454323e-12 True 0 Optimization terminated successfully.
+73
+-29936615.623188257 False 3 The algorithm terminated successfully and determined that the problem is unbounded.
+74
+-26785355313.635162 False 3 The algorithm terminated successfully and determined that the problem is unbounded.
+75
+-672469681.6510296 False 3 The algorithm terminated successfully and determined that the problem is unbounded.
+76
+-765476319.53582 False 3 The algorithm terminated successfully and determined that the problem is unbounded.
+77
+-622693451.6051893 False 3 The algorithm terminated successfully and determined that the problem is unbounded.
+78
+-5176482112.947987 False 3 The algorithm terminated successfully and determined that the problem is unbounded.
+79
+-473499543.76131535 False 3 The algorithm terminated successfully and determined that the problem is unbounded.
+80
+-561267759.8612766 False 3 The algorithm terminated successfully and determined that the problem is unbounded.
+81
+-776128830.1252184 False 3 The algorithm terminated successfully and determined that the problem is unbounded.
+82
+[[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 1], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 1], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 1], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, 1], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 1, 1, -1], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 1, 1, -1, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 1, 1, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, -1, 1, 1, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 1, 0, 0, 1, -1], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 1, 0, 0, 1, -1, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 1, 0, 0, 1, -1, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 1, 0, 0, 1, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 1, 0, 0, 1, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, -1, 1, 0, 0, 1, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0.0, 0.0, -1.0, 1.0, 0.0, 0.0, 0.0, -1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, -1.0], [0.0, 0.0, -1.0, 1.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, -1.0, 0.0, 0.0, 0.0, 0.0, 0.0, -1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 1, 0, 0, 0, 0, 0, 0, 1, -1], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 1, 0, 0, 0, 0, 0, 0, 1, -1, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 1, 0, 0, 0, 0, 0, 0, 1, -1, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 1, 0, 0, 0, 0, 0, 0, 1, -1, 0, 0, 0, 0, 0, 0], [0.0, 0.0, 0.0, 0.0, -1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, -1.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, -1.0], [0, 0, -1, 1, 0, 0, 0, 0, 0, 0, 1, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0.0, 0.0, -1.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, -1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, -1], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, -1, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, -1, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, -1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, -1, 0, 0, 0, 0, 0, 0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, -1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, -2.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0], [0, 0, -1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0.0, 0.0, -1.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, -1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 1, 0, 1, 0, -1], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 1, 0, 1, 0, -1, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 1, 0, 1, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 1, 0, 1, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 1, 0, 1, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 1, 0, 1, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [-1.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, -1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, -1.0], [-1.0, 0.0, 1.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, -1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, -1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 1, 0, 0, 0, 0, 0, 1, 0, -1], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 1, 0, 0, 0, 0, 0, 1, 0, -1, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 1, 0, 0, 0, 0, 0, 1, 0, -1, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 1, 0, 0, 0, 0, 0, 1, 0, -1, 0, 0, 0, 0, 0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, -2.0, 0.0, 0.0, 0.0, 0.0, 0.0, -1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0], [-1.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, -1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [-1, 0, 1, 0, 0, 0, 0, 0, 1, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, -1], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, -1, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, -1, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, -1, 0, 0, 0, 0, 0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, -1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, -1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0], [0.0, 0.0, 0.0, 0.0, -1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, -1.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, -1.0], [-1.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, -1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [-1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, -1], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, -1, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, -1, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, -1, 0, 0, 0], [-1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, -1], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, -1, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, -1, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, -1, 0, 0, 0], [-1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, -1], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, -1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, -1.0, 1.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, -1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, -1.0, 0.0, 1.0], [0, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0], [0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0], [0, 0, -1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0], [-1.0, 0.0, 1.0, -1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, -1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [-1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0]] 72
+This is the C_cone after removing redundant inequalities
+-0.9999999999325937 True 0 Optimization terminated successfully.
+-0.999999999652023 True 0 Optimization terminated successfully.
+-0.9999999999230001 True 0 Optimization terminated successfully.
+-0.9999999999442919 True 0 Optimization terminated successfully.
+-0.9999999999190319 True 0 Optimization terminated successfully.
+-0.9999999999260352 True 0 Optimization terminated successfully.
+-0.9999999999584439 True 0 Optimization terminated successfully.
+-0.999999971513434 True 0 Optimization terminated successfully.
+-0.9999999729537743 True 0 Optimization terminated successfully.
+-0.9999999906918369 True 0 Optimization terminated successfully.
+4398046511104.0 False 1 The iteration limit was reached before the algorithm converged.
+-2.357158912502655e-10 True 0 Optimization terminated successfully.
+-0.9999999998941407 True 0 Optimization terminated successfully.
+-0.9999999999999627 True 0 Optimization terminated successfully.
+-0.9999998612963292 True 0 Optimization terminated successfully.
+-3.222422328974517e-12 True 0 Optimization terminated successfully.
+-0.9999999982913286 True 0 Optimization terminated successfully.
+-0.9999999991688551 True 0 Optimization terminated successfully.
+-0.9999999857217681 True 0 Optimization terminated successfully.
+-0.9999999998448352 True 0 Optimization terminated successfully.
+-0.9999999416082499 True 0 Optimization terminated successfully.
+-4.3729464493935666e-12 True 0 Optimization terminated successfully.
+-1.924571613187709e-11 True 0 Optimization terminated successfully.
+-0.9999999935587289 True 0 Optimization terminated successfully.
+-3.948708027223802e-11 True 0 Optimization terminated successfully.
+9.268585898780657e-12 True 0 Optimization terminated successfully.
+9.268585898780657e-12 True
+-0.9999999906451897 True 0 Optimization terminated successfully.
+-1.0000000000086828 True 0 Optimization terminated successfully.
+2.788347330806573e-11 True 0 Optimization terminated successfully.
+2.788347330806573e-11 True
+5.452971407748919e-12 True 0 Optimization terminated successfully.
+5.452971407748919e-12 True
+-0.9999999935545696 True 0 Optimization terminated successfully.
+-0.999999988316219 True 0 Optimization terminated successfully.
+-0.9999999997716316 True 0 Optimization terminated successfully.
+-0.9999999999214779 True 0 Optimization terminated successfully.
+-0.9999998612985284 True 0 Optimization terminated successfully.
+-5.808136194218605e-10 True 0 Optimization terminated successfully.
+-0.9999999999942304 True 0 Optimization terminated successfully.
+-1.7274681685108817e-11 True 0 Optimization terminated successfully.
+-0.9999999978424778 True 0 Optimization terminated successfully.
+-4.281863752453319e-11 True 0 Optimization terminated successfully.
+-5.124789481669723e-13 True 0 Optimization terminated successfully.
+-0.999999997868418 True 0 Optimization terminated successfully.
+-0.999999650168613 True 0 Optimization terminated successfully.
+-9.130474154517287e-12 True 0 Optimization terminated successfully.
+-1.0453637955265549e-11 True 0 Optimization terminated successfully.
+-0.9999999944050506 True 0 Optimization terminated successfully.
+-0.9999999989553228 True 0 Optimization terminated successfully.
+-0.9999999999631219 True 0 Optimization terminated successfully.
+-0.999999999470365 True 0 Optimization terminated successfully.
+-0.9999997173963822 True 0 Optimization terminated successfully.
+-0.9999999962708443 True 0 Optimization terminated successfully.
+9.29478716216181e-12 True 0 Optimization terminated successfully.
+9.29478716216181e-12 True
+4.312994406063808e-12 True 0 Optimization terminated successfully.
+4.312994406063808e-12 True
+-0.9999999973961566 True 0 Optimization terminated successfully.
+-0.9999999999980238 True 0 Optimization terminated successfully.
+1.9635315595678549e-10 True 0 Optimization terminated successfully.
+1.9635315595678549e-10 True
+-0.9999999999989289 True 0 Optimization terminated successfully.
+-0.9999997953233315 True 0 Optimization terminated successfully.
+-0.9999999999997922 True 0 Optimization terminated successfully.
+-0.999999999925806 True 0 Optimization terminated successfully.
+-0.9999999999793729 True 0 Optimization terminated successfully.
+1.5232926031671923e-10 True 0 Optimization terminated successfully.
+1.5232926031671923e-10 True
+-0.9999999999970921 True 0 Optimization terminated successfully.
+-0.999999999997705 True 0 Optimization terminated successfully.
+-0.9999999999946567 True 0 Optimization terminated successfully.
+-0.9999999992221245 True 0 Optimization terminated successfully.
+-0.9999999870998497 True 0 Optimization terminated successfully.
+-0.9999999972495202 True 0 Optimization terminated successfully.
+-0.9999999999993259 True 0 Optimization terminated successfully.
+-0.9999997992566918 True 0 Optimization terminated successfully.
+-0.9999998862394648 True 0 Optimization terminated successfully.
+-0.9999999960585142 True 0 Optimization terminated successfully.
+-0.9999999999811314 True 0 Optimization terminated successfully.
+-0.9999999999698361 True 0 Optimization terminated successfully.
+-0.999999999986956 True 0 Optimization terminated successfully.
+-0.9999999999919431 True 0 Optimization terminated successfully.
+-0.9999999999760043 True 0 Optimization terminated successfully.
+-0.9999999999919686 True 0 Optimization terminated successfully.
+-0.9999995575111811 True 0 Optimization terminated successfully.
+-0.9999999892063913 True 0 Optimization terminated successfully.
+-0.999999968428372 True 0 Optimization terminated successfully.
+-0.9999999893075291 True 0 Optimization terminated successfully.
+-0.9999999993219824 True 0 Optimization terminated successfully.
+-2.687183808802729e-12 True 0 Optimization terminated successfully.
+-0.9999997044646403 True 0 Optimization terminated successfully.
+-1.0000000000446754 True 0 Optimization terminated successfully.
+-0.9999999226048732 True 0 Optimization terminated successfully.
+6.025995258340799e-10 True 0 Optimization terminated successfully.
+6.025995258340799e-10 True
+1.3682666111236585e-10 True 0 Optimization terminated successfully.
+1.3682666111236585e-10 True
+-0.9999999965255322 True 0 Optimization terminated successfully.
+-0.9999999999996252 True 0 Optimization terminated successfully.
+-0.9999999999882201 True 0 Optimization terminated successfully.
+-0.9999999853322752 True 0 Optimization terminated successfully.
+-0.999999955385908 True 0 Optimization terminated successfully.
+-0.9999999487786102 True 0 Optimization terminated successfully.
+2.2151169787321123e-12 True 0 Optimization terminated successfully.
+2.2151169787321123e-12 True
+-6.123601625773745e-11 True 0 Optimization terminated successfully.
+8.100542459033022e-11 True 0 Optimization terminated successfully.
+8.100542459033022e-11 True
+-0.9999999931530326 True 0 Optimization terminated successfully.
+4.056255331619241e-11 True 0 Optimization terminated successfully.
+4.056255331619241e-11 True
+-0.9999999999572724 True 0 Optimization terminated successfully.
+-0.9999999847787358 True 0 Optimization terminated successfully.
+-0.9999997744776241 True 0 Optimization terminated successfully.
+-0.9999999876931644 True 0 Optimization terminated successfully.
+-1.6596723995121465e-11 True 0 Optimization terminated successfully.
+-0.9999999959331944 True 0 Optimization terminated successfully.
+-0.9999999999977902 True 0 Optimization terminated successfully.
+-0.9999995376300674 True 0 Optimization terminated successfully.
+-0.9999998306695499 True 0 Optimization terminated successfully.
+-1.1013412404281553e-13 True 0 Optimization terminated successfully.
+-0.9999999999950315 True 0 Optimization terminated successfully.
+-4.829514566040416e-11 True 0 Optimization terminated successfully.
+-0.9999999846557088 True 0 Optimization terminated successfully.
+1.2541079286165768e-12 True 0 Optimization terminated successfully.
+1.2541079286165768e-12 True
+6.543654507140673e-12 True 0 Optimization terminated successfully.
+6.543654507140673e-12 True
+-0.9999999945399125 True 0 Optimization terminated successfully.
+-0.9999999999999281 True 0 Optimization terminated successfully.
+-0.999999999994841 True 0 Optimization terminated successfully.
+4.519717933249012e-12 True 0 Optimization terminated successfully.
+4.519717933249012e-12 True
+-0.9999999646656708 True 0 Optimization terminated successfully.
+-0.9999999999964677 True 0 Optimization terminated successfully.
+-0.9999999999357274 True 0 Optimization terminated successfully.
+-0.9999999472136611 True 0 Optimization terminated successfully.
+-0.999999956530436 True 0 Optimization terminated successfully.
+-0.9999999958174115 True 0 Optimization terminated successfully.
+-0.9999999988611639 True 0 Optimization terminated successfully.
+-0.9999999999599583 True 0 Optimization terminated successfully.
+6.872887112771227e+19 False 1 The iteration limit was reached before the algorithm converged.
+-0.9999999999986837 True 0 Optimization terminated successfully.
+-1.000000000000007 True 0 Optimization terminated successfully.
+-0.999999999992212 True 0 Optimization terminated successfully.
+-0.999999716108352 True 0 Optimization terminated successfully.
+-0.9999997731418855 True 0 Optimization terminated successfully.
+-0.9999999999997193 True 0 Optimization terminated successfully.
+-0.9999999999868865 True 0 Optimization terminated successfully.
+-0.9999999999979661 True 0 Optimization terminated successfully.
+-0.9999999660764303 True 0 Optimization terminated successfully.
+-0.9999999999867906 True 0 Optimization terminated successfully.
+-0.9999999692888224 True 0 Optimization terminated successfully.
+-0.9999999919904394 True 0 Optimization terminated successfully.
+-0.9999999999813517 True 0 Optimization terminated successfully.
+-0.9999999999692026 True 0 Optimization terminated successfully.
+-0.9999999999871363 True 0 Optimization terminated successfully.
+-0.9999999999901736 True 0 Optimization terminated successfully.
+-0.9999999999662665 True 0 Optimization terminated successfully.
+-0.9999999999730758 True 0 Optimization terminated successfully.
+-0.9999999999678337 True 0 Optimization terminated successfully.
+-0.9999999909096795 True 0 Optimization terminated successfully.
+-0.9999999827476254 True 0 Optimization terminated successfully.
+-0.9999999860794624 True 0 Optimization terminated successfully.
+-0.9999999999990443 True 0 Optimization terminated successfully.
+6.988631895410435e-12 True 0 Optimization terminated successfully.
+6.988631895410435e-12 True
+-0.9999999999963691 True 0 Optimization terminated successfully.
+-0.9999998802482324 True 0 Optimization terminated successfully.
+-0.9999997255810742 True 0 Optimization terminated successfully.
+-0.9999999912744846 True 0 Optimization terminated successfully.
+47889852.625 False 1 The iteration limit was reached before the algorithm converged.
+-0.9999999999438725 True 0 Optimization terminated successfully.
+-0.9999999999915352 True 0 Optimization terminated successfully.
+-0.9999999919016727 True 0 Optimization terminated successfully.
+-0.9999999773739967 True 0 Optimization terminated successfully.
+-8.446021659835878e-12 True 0 Optimization terminated successfully.
+-0.9999999921226359 True 0 Optimization terminated successfully.
+-0.9999999999581011 True 0 Optimization terminated successfully.
+-0.999999999365393 True 0 Optimization terminated successfully.
+-0.9999999999723341 True 0 Optimization terminated successfully.
+-0.9999999762252996 True 0 Optimization terminated successfully.
+-2.2468915616968843e-11 True 0 Optimization terminated successfully.
+-0.9999999900524212 True 0 Optimization terminated successfully.
+-0.9999999999931717 True 0 Optimization terminated successfully.
+-0.9999999999996732 True 0 Optimization terminated successfully.
+-0.9999997842983896 True 0 Optimization terminated successfully.
+-3.810285420513537e-12 True 0 Optimization terminated successfully.
+-0.9999999999999751 True 0 Optimization terminated successfully.
+-5.86466430974042e-11 True 0 Optimization terminated successfully.
+-0.9999999843385368 True 0 Optimization terminated successfully.
+-0.9999999962314092 True 0 Optimization terminated successfully.
+-0.9999999999956222 True 0 Optimization terminated successfully.
+-0.9999999999962839 True 0 Optimization terminated successfully.
+-0.9999999699017357 True 0 Optimization terminated successfully.
+-0.9999999999993738 True 0 Optimization terminated successfully.
+-0.9999999999460436 True 0 Optimization terminated successfully.
+-0.9999999749653874 True 0 Optimization terminated successfully.
+-0.9999999999981073 True 0 Optimization terminated successfully.
+-0.999999996472571 True 0 Optimization terminated successfully.
+-0.999999999552077 True 0 Optimization terminated successfully.
+-0.9999999999557279 True 0 Optimization terminated successfully.
+-0.9999999999999858 True 0 Optimization terminated successfully.
+-0.9999999591414799 True 0 Optimization terminated successfully.
+-0.9999999999999609 True 0 Optimization terminated successfully.
+-0.9999999999933697 True 0 Optimization terminated successfully.
+-0.9999999999964029 True 0 Optimization terminated successfully.
+-0.9999999619958153 True 0 Optimization terminated successfully.
+-0.9999999986003267 True 0 Optimization terminated successfully.
+-0.9999999999906151 True 0 Optimization terminated successfully.
+-0.9999999999628539 True 0 Optimization terminated successfully.
+-0.999999973288114 True 0 Optimization terminated successfully.
+-0.9999999999883076 True 0 Optimization terminated successfully.
+-0.9999999680398659 True 0 Optimization terminated successfully.
+-0.9999999915919537 True 0 Optimization terminated successfully.
+-0.9999999999914551 True 0 Optimization terminated successfully.
+-0.9999999999685458 True 0 Optimization terminated successfully.
+-0.9999999999914834 True 0 Optimization terminated successfully.
+-0.999999999997343 True 0 Optimization terminated successfully.
+-0.9999999999915508 True 0 Optimization terminated successfully.
+-0.9999999999861071 True 0 Optimization terminated successfully.
+-0.999999999996044 True 0 Optimization terminated successfully.
+-0.9999999920358214 True 0 Optimization terminated successfully.
+-0.9999999866123428 True 0 Optimization terminated successfully.
+-0.9999999993685762 True 0 Optimization terminated successfully.
+-0.9999999999686651 True 0 Optimization terminated successfully.
+-0.9999998332397091 True 0 Optimization terminated successfully.
+-0.9999999999370885 True 0 Optimization terminated successfully.
+-0.9999999999983133 True 0 Optimization terminated successfully.
+-0.9999999946150657 True 0 Optimization terminated successfully.
+-0.9999999999946052 True 0 Optimization terminated successfully.
+-0.9999999999492664 True 0 Optimization terminated successfully.
+-0.9999999999961955 True 0 Optimization terminated successfully.
+-0.9999999945712315 True 0 Optimization terminated successfully.
+-0.9999999808787878 True 0 Optimization terminated successfully.
+-7.366884879900226e-12 True 0 Optimization terminated successfully.
+-0.9999999950107608 True 0 Optimization terminated successfully.
+-0.9999999999806892 True 0 Optimization terminated successfully.
+-0.9999999999725624 True 0 Optimization terminated successfully.
+-0.9999999999972253 True 0 Optimization terminated successfully.
+-0.9999999938307944 True 0 Optimization terminated successfully.
+-1.1182499370931964e-11 True 0 Optimization terminated successfully.
+-0.9999999973717735 True 0 Optimization terminated successfully.
+-0.9999999999563443 True 0 Optimization terminated successfully.
+-0.9999999998884981 True 0 Optimization terminated successfully.
+-0.9999999346693862 True 0 Optimization terminated successfully.
+-4.7557513482843206e-12 True 0 Optimization terminated successfully.
+-0.9999997768106859 True 0 Optimization terminated successfully.
+3.191994377149676e-10 True 0 Optimization terminated successfully.
+3.191994377149676e-10 True
+-4.144390941540621e-10 True 0 Optimization terminated successfully.
+-0.999999981443791 True 0 Optimization terminated successfully.
+-0.9999999999997176 True 0 Optimization terminated successfully.
+-0.999999922246551 True 0 Optimization terminated successfully.
+-0.9999999999955347 True 0 Optimization terminated successfully.
+-0.9999999873817784 True 0 Optimization terminated successfully.
+-0.9999999999997664 True 0 Optimization terminated successfully.
+-0.9999999999828373 True 0 Optimization terminated successfully.
+-0.9999999897445253 True 0 Optimization terminated successfully.
+-0.9999999999982876 True 0 Optimization terminated successfully.
+-0.9999999997678475 True 0 Optimization terminated successfully.
+-0.9999999999661973 True 0 Optimization terminated successfully.
+-0.9999999999996199 True 0 Optimization terminated successfully.
+-0.9999999997380655 False 4 The solution does not satisfy the constraints within the required tolerance of 3.16E-04, yet no errors were raised and there is no certificate of infeasibility or unboundedness. This is known to occur if the `presolve` option is False and the problem is infeasible. This can also occur due to the limited accuracy of the `interior-point` method. Check whether the slack and constraint residuals are acceptable; if not, consider enabling presolve, reducing option `tol`, and/or using method `revised simplex`. If you encounter this message under different circumstances, please submit a bug report.
+-0.9999999999998046 True 0 Optimization terminated successfully.
+-0.9999999999932703 True 0 Optimization terminated successfully.
+-0.9999999999786162 True 0 Optimization terminated successfully.
+-0.9999997621664818 True 0 Optimization terminated successfully.
+-0.9999999999999813 True 0 Optimization terminated successfully.
+-0.9999999999908946 True 0 Optimization terminated successfully.
+-0.999999967860985 True 0 Optimization terminated successfully.
+-0.9999999999926441 True 0 Optimization terminated successfully.
+-0.9999999691665744 True 0 Optimization terminated successfully.
+-0.9999999918942342 True 0 Optimization terminated successfully.
+-0.9999999999811972 True 0 Optimization terminated successfully.
+-0.9999999999887623 True 0 Optimization terminated successfully.
+-0.9999999999894656 True 0 Optimization terminated successfully.
+-0.9999999999969538 True 0 Optimization terminated successfully.
+-0.9999999999941607 True 0 Optimization terminated successfully.
+-0.9999999999937073 True 0 Optimization terminated successfully.
+-0.9999999303457354 True 0 Optimization terminated successfully.
+-0.9999999866758662 True 0 Optimization terminated successfully.
+1.6234791289093664e-12 True 0 Optimization terminated successfully.
+1.6234791289093664e-12 True
+5.140388115165706e-11 True 0 Optimization terminated successfully.
+5.140388115165706e-11 True
+3.290701044988964e-13 True 0 Optimization terminated successfully.
+3.290701044988964e-13 True
+-0.9999999993075885 True 0 Optimization terminated successfully.
+-0.9999999999958575 True 0 Optimization terminated successfully.
+-0.9999999999968914 True 0 Optimization terminated successfully.
+-0.9999999999930544 True 0 Optimization terminated successfully.
+-3.244502444488262e-10 True 0 Optimization terminated successfully.
+-2.766165185796865e-09 True 0 Optimization terminated successfully.
+-0.9999999999298357 True 0 Optimization terminated successfully.
+-0.9999999812124702 True 0 Optimization terminated successfully.
+9.443279491705425e-11 True 0 Optimization terminated successfully.
+9.443279491705425e-11 True
+-5.548715042991148e-09 True 0 Optimization terminated successfully.
+1.8306480775720502e-09 True 0 Optimization terminated successfully.
+1.8306480775720502e-09 True
+-0.9999999999773124 True 0 Optimization terminated successfully.
+-0.9999999999984777 True 0 Optimization terminated successfully.
+-0.999999995852388 True 0 Optimization terminated successfully.
+-0.9999999881680477 True 0 Optimization terminated successfully.
+-3.5837999234900053e-12 True 0 Optimization terminated successfully.
+1.2852829911480512e-11 True 0 Optimization terminated successfully.
+1.2852829911480512e-11 True
+-1.1468315186391465e-10 True 0 Optimization terminated successfully.
+-0.9999999999918021 True 0 Optimization terminated successfully.
+12.578581916255644 False 4 Numerical difficulties were encountered before the problem converged. Please check your problem formulation for errors, independence of linear equality constraints, and reasonable scaling and matrix condition numbers. If you continue to encounter this error, please submit a bug report.
+-1.3718892688530104e-10 True 0 Optimization terminated successfully.
+2.361000284167858e-11 True 0 Optimization terminated successfully.
+2.361000284167858e-11 True
+-0.9999999887311266 True 0 Optimization terminated successfully.
+-8.161586129151743e-10 True 0 Optimization terminated successfully.
+-4.681199872180741e-10 True 0 Optimization terminated successfully.
+-0.9999999967662667 True 0 Optimization terminated successfully.
+-0.9999999999323954 True 0 Optimization terminated successfully.
+-0.9999999999464002 True 0 Optimization terminated successfully.
+-0.9999997312977236 True 0 Optimization terminated successfully.
+-0.9999999999976152 True 0 Optimization terminated successfully.
+-6.576733602159379e-11 True 0 Optimization terminated successfully.
+-0.9999999855916197 True 0 Optimization terminated successfully.
+-0.9999999999865814 True 0 Optimization terminated successfully.
+-0.9999999999773088 True 0 Optimization terminated successfully.
+-0.9999999999989759 True 0 Optimization terminated successfully.
+-0.9999999878847863 True 0 Optimization terminated successfully.
+-0.9999999999997105 True 0 Optimization terminated successfully.
+-0.9999999999919371 True 0 Optimization terminated successfully.
+-0.9999999903060193 True 0 Optimization terminated successfully.
+-0.9999999997350679 True 0 Optimization terminated successfully.
+-0.9999999999841882 True 0 Optimization terminated successfully.
+-0.9999996025838076 True 0 Optimization terminated successfully.
+-0.9999996715290562 True 0 Optimization terminated successfully.
+-0.99999992054234 True 0 Optimization terminated successfully.
+-0.999999999995064 True 0 Optimization terminated successfully.
+-0.9999997936078255 True 0 Optimization terminated successfully.
+-12.093266209456488 False 1 The iteration limit was reached before the algorithm converged.
+-0.9999998582614982 True 0 Optimization terminated successfully.
+-0.9999999999917475 True 0 Optimization terminated successfully.
+-0.9999999803780533 True 0 Optimization terminated successfully.
+-0.999999999995937 True 0 Optimization terminated successfully.
+-0.999999964696646 True 0 Optimization terminated successfully.
+-0.9999999873976471 True 0 Optimization terminated successfully.
+-0.9999999999873028 True 0 Optimization terminated successfully.
+-0.9999999999938454 True 0 Optimization terminated successfully.
+-0.9999999999987624 True 0 Optimization terminated successfully.
+-0.9999999999963491 True 0 Optimization terminated successfully.
+-0.9999999999985831 True 0 Optimization terminated successfully.
+-0.9999999999950351 True 0 Optimization terminated successfully.
+-0.9999999999999645 True 0 Optimization terminated successfully.
+-0.9999999845566756 True 0 Optimization terminated successfully.
+-0.9999999991707735 True 0 Optimization terminated successfully.
+-0.9999999999943601 True 0 Optimization terminated successfully.
+-0.9999999999981739 True 0 Optimization terminated successfully.
+-3.2822633500018128e-12 True 0 Optimization terminated successfully.
+-6.023848087011174e-11 True 0 Optimization terminated successfully.
+1.7243284577972418e-10 True 0 Optimization terminated successfully.
+1.7243284577972418e-10 True
+3.7510217154590464e-10 True 0 Optimization terminated successfully.
+3.7510217154590464e-10 True
+-0.9999999970304225 True 0 Optimization terminated successfully.
+-1.8378013555420125e-09 True 0 Optimization terminated successfully.
+-0.9999999999707825 True 0 Optimization terminated successfully.
+-0.9999999999985758 True 0 Optimization terminated successfully.
+-0.9999999961300432 True 0 Optimization terminated successfully.
+-0.999999991580983 True 0 Optimization terminated successfully.
+-6.459055512664236e-12 True 0 Optimization terminated successfully.
+-7.201594875994033e-11 True 0 Optimization terminated successfully.
+-0.9999999999891154 True 0 Optimization terminated successfully.
+1.6542323066914832e-12 True 0 Optimization terminated successfully.
+1.6542323066914832e-12 True
+-3.9190872769268026e-12 True 0 Optimization terminated successfully.
+-0.9999999907554473 True 0 Optimization terminated successfully.
+6.240572225646446e-10 True 0 Optimization terminated successfully.
+6.240572225646446e-10 True
+1.1245407383064787e-11 True 0 Optimization terminated successfully.
+1.1245407383064787e-11 True
+-0.9999999971233464 True 0 Optimization terminated successfully.
+-0.9999999999354845 True 0 Optimization terminated successfully.
+-0.9999999998990745 True 0 Optimization terminated successfully.
+-0.9999998292436292 True 0 Optimization terminated successfully.
+-0.999999999997871 True 0 Optimization terminated successfully.
+-3.738959142296494e-11 True 0 Optimization terminated successfully.
+-0.9999999816151242 True 0 Optimization terminated successfully.
+-0.9999996540191738 True 0 Optimization terminated successfully.
+-0.9999999999755245 True 0 Optimization terminated successfully.
+-0.9999999999986926 True 0 Optimization terminated successfully.
+-0.9999999806848416 True 0 Optimization terminated successfully.
+-0.9999999999999662 True 0 Optimization terminated successfully.
+-0.9999999999915778 True 0 Optimization terminated successfully.
+-0.99999998647416 True 0 Optimization terminated successfully.
+-0.9999999997320117 True 0 Optimization terminated successfully.
+-0.9999999999826636 True 0 Optimization terminated successfully.
+-0.999999712932155 True 0 Optimization terminated successfully.
+-0.9999996119140331 True 0 Optimization terminated successfully.
+-0.9999998805663095 True 0 Optimization terminated successfully.
+-0.9999999836581974 True 0 Optimization terminated successfully.
+-0.9999999726742699 True 0 Optimization terminated successfully.
+-0.9999998556616125 True 0 Optimization terminated successfully.
+-0.999999999992073 True 0 Optimization terminated successfully.
+-0.9999999820455585 True 0 Optimization terminated successfully.
+-0.999999999996215 True 0 Optimization terminated successfully.
+-0.999999965700086 True 0 Optimization terminated successfully.
+-0.9999999888883342 True 0 Optimization terminated successfully.
+-0.9999999999955667 True 0 Optimization terminated successfully.
+-0.999999999998284 True 0 Optimization terminated successfully.
+-0.999999999994905 True 0 Optimization terminated successfully.
+-0.9999999999944689 True 0 Optimization terminated successfully.
+-0.9999999967674134 True 0 Optimization terminated successfully.
+-0.9999999999999485 True 0 Optimization terminated successfully.
+-0.9999999727908211 True 0 Optimization terminated successfully.
+-0.9999999899610761 True 0 Optimization terminated successfully.
+-0.9999999894929701 True 0 Optimization terminated successfully.
+-0.9999999999331344 True 0 Optimization terminated successfully.
+-0.9999999999956071 True 0 Optimization terminated successfully.
+-4.069633519065974e-12 True 0 Optimization terminated successfully.
+6.807465702252102e-11 True 0 Optimization terminated successfully.
+6.807465702252102e-11 True
+9.562740044266604e-10 True 0 Optimization terminated successfully.
+9.562740044266604e-10 True
+-2.4167334800040408e-12 True 0 Optimization terminated successfully.
+-1.5357159988127478e-10 True 0 Optimization terminated successfully.
+-0.9999999956474221 True 0 Optimization terminated successfully.
+-5.418563375769736e-10 True 0 Optimization terminated successfully.
+-0.999999999994106 True 0 Optimization terminated successfully.
+-0.9999999999993023 True 0 Optimization terminated successfully.
+-0.9999999966897324 True 0 Optimization terminated successfully.
+-0.9999999911640822 True 0 Optimization terminated successfully.
+-9.757972208035426e-12 True 0 Optimization terminated successfully.
+-6.831102350446372e-11 True 0 Optimization terminated successfully.
+-0.9999999999965183 True 0 Optimization terminated successfully.
+1.0221823387723816e-11 True 0 Optimization terminated successfully.
+1.0221823387723816e-11 True
+-0.9999999893092597 True 0 Optimization terminated successfully.
+-0.999999999793614 True 0 Optimization terminated successfully.
+-0.9999999999933564 True 0 Optimization terminated successfully.
+-0.9999999999144222 True 0 Optimization terminated successfully.
+-0.9999996910704612 True 0 Optimization terminated successfully.
+-0.9999999999975451 True 0 Optimization terminated successfully.
+-7.194955742306774e-11 True 0 Optimization terminated successfully.
+-0.9999999874148173 True 0 Optimization terminated successfully.
+-0.9999997797980598 True 0 Optimization terminated successfully.
+-0.9999999999971472 True 0 Optimization terminated successfully.
+-0.9999999999997069 True 0 Optimization terminated successfully.
+-0.9999999917292808 True 0 Optimization terminated successfully.
+-0.9999999999971436 True 0 Optimization terminated successfully.
+-0.9999999870909857 True 0 Optimization terminated successfully.
+-0.9999999994944102 True 0 Optimization terminated successfully.
+-0.9999999999988134 True 0 Optimization terminated successfully.
+-0.999999983445349 True 0 Optimization terminated successfully.
+-0.9999999678530029 True 0 Optimization terminated successfully.
+-0.9999999144953717 True 0 Optimization terminated successfully.
+-0.999999987570833 True 0 Optimization terminated successfully.
+-0.9999999999983329 True 0 Optimization terminated successfully.
+-0.9999998898111402 True 0 Optimization terminated successfully.
+-0.9999999999953357 True 0 Optimization terminated successfully.
+-0.9999999999962426 True 0 Optimization terminated successfully.
+-0.9999999660422967 True 0 Optimization terminated successfully.
+-0.9999999851563137 True 0 Optimization terminated successfully.
+-0.9999999999977537 True 0 Optimization terminated successfully.
+-0.9999999999982558 True 0 Optimization terminated successfully.
+-0.9999999999994078 True 0 Optimization terminated successfully.
+-0.9999999999962443 True 0 Optimization terminated successfully.
+-5.857958562671683e-11 True 0 Optimization terminated successfully.
+-0.9999999999986349 True 0 Optimization terminated successfully.
+-0.9999999917383673 True 0 Optimization terminated successfully.
+-0.9999999999999956 True 0 Optimization terminated successfully.
+-0.999999971039129 True 0 Optimization terminated successfully.
+-0.9999999935947517 True 0 Optimization terminated successfully.
+-0.9999999973826093 True 0 Optimization terminated successfully.
+-0.9999999999960494 True 0 Optimization terminated successfully.
+-0.9999999999971694 True 0 Optimization terminated successfully.
+-1.0587086762825493e-12 True 0 Optimization terminated successfully.
+-2.674527266322002e-12 True 0 Optimization terminated successfully.
+-2.2423307655117242e-10 True 0 Optimization terminated successfully.
+-0.9999999966262783 True 0 Optimization terminated successfully.
+-5.926441559722662e-10 True 0 Optimization terminated successfully.
+-0.9999999999907345 True 0 Optimization terminated successfully.
+-0.999999999999913 True 0 Optimization terminated successfully.
+-0.9999999974045135 True 0 Optimization terminated successfully.
+-0.9999999948212657 True 0 Optimization terminated successfully.
+-8.152367669822524e-12 True 0 Optimization terminated successfully.
+-0.9999999993391695 True 0 Optimization terminated successfully.
+-0.9999999999929319 True 0 Optimization terminated successfully.
+-0.9999999999165112 True 0 Optimization terminated successfully.
+-0.9999999124786791 True 0 Optimization terminated successfully.
+-0.9999999999964615 True 0 Optimization terminated successfully.
+-1.7893297954429954e-11 True 0 Optimization terminated successfully.
+-0.9999999827920547 True 0 Optimization terminated successfully.
+-0.99999967490184 True 0 Optimization terminated successfully.
+-0.9999999999967883 True 0 Optimization terminated successfully.
+-0.9999999999995968 True 0 Optimization terminated successfully.
+-0.9999999928659156 True 0 Optimization terminated successfully.
+-0.9999999999989106 True 0 Optimization terminated successfully.
+-0.9999999879507069 True 0 Optimization terminated successfully.
+-0.9999999996985212 True 0 Optimization terminated successfully.
+-0.9999999999983751 True 0 Optimization terminated successfully.
+-0.9999999795325341 True 0 Optimization terminated successfully.
+-0.9999999999982601 True 0 Optimization terminated successfully.
+-0.9999999800653914 True 0 Optimization terminated successfully.
+-0.9999999907348158 True 0 Optimization terminated successfully.
+-0.9999999999980176 True 0 Optimization terminated successfully.
+-0.9999999912302537 True 0 Optimization terminated successfully.
+-0.9999999999959748 True 0 Optimization terminated successfully.
+-0.999999999998181 True 0 Optimization terminated successfully.
+-0.9999999791398073 True 0 Optimization terminated successfully.
+-0.9999999951917253 True 0 Optimization terminated successfully.
+-0.9999999999983069 True 0 Optimization terminated successfully.
+-0.9999999999982174 True 0 Optimization terminated successfully.
+-0.9999999999975127 True 0 Optimization terminated successfully.
+-0.9999999999976921 True 0 Optimization terminated successfully.
+-1.0874634526203408e-11 True 0 Optimization terminated successfully.
+-0.9999999999992522 True 0 Optimization terminated successfully.
+4.508282636095373e-11 True 0 Optimization terminated successfully.
+4.508282636095373e-11 True
+1.578492891951555e-11 True 0 Optimization terminated successfully.
+1.578492891951555e-11 True
+-2.803671739215474e-10 True 0 Optimization terminated successfully.
+-0.9999996961756832 True 0 Optimization terminated successfully.
+-0.9999999999998934 True 0 Optimization terminated successfully.
+-0.9999999999708962 True 0 Optimization terminated successfully.
+-2.760756068198589e-10 True 0 Optimization terminated successfully.
+7.700617921102548e-11 True 0 Optimization terminated successfully.
+7.700617921102548e-11 True
+-0.9999999999999432 True 0 Optimization terminated successfully.
+-0.9999999975541343 True 0 Optimization terminated successfully.
+-0.9999999999944365 True 0 Optimization terminated successfully.
+3.0480662438492345e-10 True 0 Optimization terminated successfully.
+3.0480662438492345e-10 True
+-0.9999999997800693 True 0 Optimization terminated successfully.
+7.232059395789747e-11 True 0 Optimization terminated successfully.
+7.232059395789747e-11 True
+-1.4730439090726577e-12 True 0 Optimization terminated successfully.
+-6.417089082333405e-13 True 0 Optimization terminated successfully.
+-2.4560797839967563e-11 True 0 Optimization terminated successfully.
+-0.9999999977137621 True 0 Optimization terminated successfully.
+7.175371408152387e-13 True 0 Optimization terminated successfully.
+7.175371408152387e-13 True
+1.2917722447269853e-12 True 0 Optimization terminated successfully.
+1.2917722447269853e-12 True
+9.371670106617103e-14 True 0 Optimization terminated successfully.
+9.371670106617103e-14 True
+-0.999999999969277 True 0 Optimization terminated successfully.
+-0.999999999999178 True 0 Optimization terminated successfully.
+-0.9999999974166887 True 0 Optimization terminated successfully.
+-0.9999999999827978 True 0 Optimization terminated successfully.
+8.046208144207867e-11 True 0 Optimization terminated successfully.
+8.046208144207867e-11 True
+-6.595834989298055e-12 True 0 Optimization terminated successfully.
+-8.707479182135103e-12 True 0 Optimization terminated successfully.
+-0.9999999997188835 True 0 Optimization terminated successfully.
+-0.9999999999516653 True 0 Optimization terminated successfully.
+-0.9999999775406172 True 0 Optimization terminated successfully.
+-0.9999999999954792 True 0 Optimization terminated successfully.
+-4.857286795001414e-11 True 0 Optimization terminated successfully.
+-0.9999999802383446 True 0 Optimization terminated successfully.
+-0.9999999772790966 True 0 Optimization terminated successfully.
+-0.9999999999994831 True 0 Optimization terminated successfully.
+-0.9999999949043201 True 0 Optimization terminated successfully.
+-0.9999999999991855 True 0 Optimization terminated successfully.
+-0.9999999893711395 True 0 Optimization terminated successfully.
+-0.9999999987804027 True 0 Optimization terminated successfully.
+-0.9999999999990314 True 0 Optimization terminated successfully.
+-0.9999999729206746 True 0 Optimization terminated successfully.
+-0.9999999930227839 True 0 Optimization terminated successfully.
+-0.9999999930673296 True 0 Optimization terminated successfully.
+-0.9999999999978648 True 0 Optimization terminated successfully.
+-0.9999999928591028 True 0 Optimization terminated successfully.
+-0.9999999999967084 True 0 Optimization terminated successfully.
+-0.9999999999979532 True 0 Optimization terminated successfully.
+-0.9999999934622901 True 0 Optimization terminated successfully.
+-0.9999999908641843 True 0 Optimization terminated successfully.
+-0.999999999997306 True 0 Optimization terminated successfully.
+-0.9999999999987945 True 0 Optimization terminated successfully.
+-0.9999999981283112 True 0 Optimization terminated successfully.
+-0.9999999999992653 True 0 Optimization terminated successfully.
+-1.7231222004809865e-09 True 0 Optimization terminated successfully.
+-2.2956747613989137e-11 True 0 Optimization terminated successfully.
+-0.9999999947072649 True 0 Optimization terminated successfully.
+1.7937040741600185e-13 True 0 Optimization terminated successfully.
+1.7937040741600185e-13 True
+-1.0204095346466602e-09 True 0 Optimization terminated successfully.
+-1.1357460527605667e-09 True 0 Optimization terminated successfully.
+-0.9999999669541353 True 0 Optimization terminated successfully.
+-0.9999999999992797 True 0 Optimization terminated successfully.
+-0.9999999720905377 True 0 Optimization terminated successfully.
+-3.7468694813469483e-10 True 0 Optimization terminated successfully.
+-2.894324779845192e-10 True 0 Optimization terminated successfully.
+8.529108530552776e-10 True 0 Optimization terminated successfully.
+8.529108530552776e-10 True
+1.6542323066914832e-12 True 0 Optimization terminated successfully.
+1.6542323066914832e-12 True
+-0.9999999999662386 True 0 Optimization terminated successfully.
+-4.0276004753536654e-11 True 0 Optimization terminated successfully.
+-7.977931648639469e-10 True 0 Optimization terminated successfully.
+3.5721570146307613e-10 True 0 Optimization terminated successfully.
+3.5721570146307613e-10 True
+-0.9999999871462144 True 0 Optimization terminated successfully.
+-0.9999999999933813 True 0 Optimization terminated successfully.
+-1.0678213868686726e-10 True 0 Optimization terminated successfully.
+-1.20570220474292e-12 True 0 Optimization terminated successfully.
+8.728573419602981e-13 True 0 Optimization terminated successfully.
+8.728573419602981e-13 True
+-6.0962346282167346e-12 True 0 Optimization terminated successfully.
+-0.9999999968708737 True 0 Optimization terminated successfully.
+-0.9999999998029514 True 0 Optimization terminated successfully.
+-0.9999999999999898 True 0 Optimization terminated successfully.
+-0.9999999920153488 True 0 Optimization terminated successfully.
+-9.90996174010661e-12 True 0 Optimization terminated successfully.
+-2.4131807663252403e-11 True 0 Optimization terminated successfully.
+-7.693845560652335e-12 True 0 Optimization terminated successfully.
+-0.9999999953883911 True 0 Optimization terminated successfully.
+-0.9999999998427906 True 0 Optimization terminated successfully.
+-0.999999999970691 True 0 Optimization terminated successfully.
+-0.9999999999592486 True 0 Optimization terminated successfully.
+-1.3003820242829534e-11 True 0 Optimization terminated successfully.
+-0.9999999661563734 True 0 Optimization terminated successfully.
+-0.9999999697385089 True 0 Optimization terminated successfully.
+-0.9999999999995648 True 0 Optimization terminated successfully.
+-0.9999999905522445 True 0 Optimization terminated successfully.
+-0.9999999999996794 True 0 Optimization terminated successfully.
+-0.9999999763368885 True 0 Optimization terminated successfully.
+-0.999999996424985 True 0 Optimization terminated successfully.
+-0.9999999999930784 True 0 Optimization terminated successfully.
+-0.9999999818421532 True 0 Optimization terminated successfully.
+-0.9999999945337343 True 0 Optimization terminated successfully.
+-0.9999999467591119 True 0 Optimization terminated successfully.
+-0.9999997686615352 True 0 Optimization terminated successfully.
+-0.9999999999968638 True 0 Optimization terminated successfully.
+-0.9999999999988236 True 0 Optimization terminated successfully.
+-0.9999999952071308 True 0 Optimization terminated successfully.
+-0.9999999790773524 True 0 Optimization terminated successfully.
+-0.9999999999981148 True 0 Optimization terminated successfully.
+-0.9999999999995961 True 0 Optimization terminated successfully.
+-0.9999999999997204 True 0 Optimization terminated successfully.
+-0.9999999999994693 True 0 Optimization terminated successfully.
+1.3930800957240308e-12 True 0 Optimization terminated successfully.
+1.3930800957240308e-12 True
+6.929457008197915e-13 True 0 Optimization terminated successfully.
+6.929457008197915e-13 True
+2.3464136189588203e-09 True 0 Optimization terminated successfully.
+2.3464136189588203e-09 True
+2.5951968074533482e-09 True 0 Optimization terminated successfully.
+2.5951968074533482e-09 True
+-1.1227130336521896e-11 True 0 Optimization terminated successfully.
+-0.9999999939804649 True 0 Optimization terminated successfully.
+5.258016244624741e-13 True 0 Optimization terminated successfully.
+5.258016244624741e-13 True
+7.937886459252752e-13 True 0 Optimization terminated successfully.
+7.937886459252752e-13 True
+6.191068768757191e-10 True 0 Optimization terminated successfully.
+6.191068768757191e-10 True
+1.303775143401964e-11 True 0 Optimization terminated successfully.
+1.303775143401964e-11 True
+2.263841170080383e-09 True 0 Optimization terminated successfully.
+2.263841170080383e-09 True
+1.9811929874435918e-13 True 0 Optimization terminated successfully.
+1.9811929874435918e-13 True
+1.5296097721773094e-13 True 0 Optimization terminated successfully.
+1.5296097721773094e-13 True
+2.442213098419188e-13 True 0 Optimization terminated successfully.
+2.442213098419188e-13 True
+2.9898306053155466e-13 True 0 Optimization terminated successfully.
+2.9898306053155466e-13 True
+1.7314316647087935e-09 True 0 Optimization terminated successfully.
+1.7314316647087935e-09 True
+4.25812163307171e-10 True 0 Optimization terminated successfully.
+4.25812163307171e-10 True
+-0.9999997039584212 True 0 Optimization terminated successfully.
+-0.9999999999812585 True 0 Optimization terminated successfully.
+-0.999999980961352 True 0 Optimization terminated successfully.
+1.123235726652183e-09 True 0 Optimization terminated successfully.
+1.123235726652183e-09 True
+-1.1783740649917718e-10 True 0 Optimization terminated successfully.
+1.00127683921869e-11 True 0 Optimization terminated successfully.
+1.00127683921869e-11 True
+6.491340798220335e-11 True 0 Optimization terminated successfully.
+6.491340798220335e-11 True
+-0.9999999997121307 True 0 Optimization terminated successfully.
+3.959099714734293e-11 True 0 Optimization terminated successfully.
+3.959099714734293e-11 True
+-1.968181173594985e-11 True 0 Optimization terminated successfully.
+-2.275513111271721e-12 True 0 Optimization terminated successfully.
+5.751525922192968e-10 True 0 Optimization terminated successfully.
+5.751525922192968e-10 True
+-3.993531061396993e-10 True 0 Optimization terminated successfully.
+1.458666520903762e-11 True 0 Optimization terminated successfully.
+1.458666520903762e-11 True
+-0.9999999940286877 True 0 Optimization terminated successfully.
+-0.999999999995719 True 0 Optimization terminated successfully.
+-5.78315173527244e-13 True 0 Optimization terminated successfully.
+7.540490454260862e-11 True 0 Optimization terminated successfully.
+7.540490454260862e-11 True
+-7.953637748414621e-13 True 0 Optimization terminated successfully.
+4.306396905739973e-11 True 0 Optimization terminated successfully.
+4.306396905739973e-11 True
+-1.6147083670148277e-12 True 0 Optimization terminated successfully.
+-3.84614562420893e-11 True 0 Optimization terminated successfully.
+-0.999999999997776 True 0 Optimization terminated successfully.
+-1.1647571795947442e-11 True 0 Optimization terminated successfully.
+9.884957297146002e-10 True 0 Optimization terminated successfully.
+9.884957297146002e-10 True
+6.175035691113884e-10 True 0 Optimization terminated successfully.
+6.175035691113884e-10 True
+-0.999999999970071 True 0 Optimization terminated successfully.
+-0.9999999999998508 True 0 Optimization terminated successfully.
+-0.9999999992376152 True 0 Optimization terminated successfully.
+7.303380122891667e-12 True 0 Optimization terminated successfully.
+7.303380122891667e-12 True
+5.511147094239277e-13 True 0 Optimization terminated successfully.
+5.511147094239277e-13 True
+-4.8969717170166405e-12 True 0 Optimization terminated successfully.
+-0.9999999998160156 True 0 Optimization terminated successfully.
+-0.9999999999936797 True 0 Optimization terminated successfully.
+-0.9999999470395888 True 0 Optimization terminated successfully.
+-0.9999999999964144 True 0 Optimization terminated successfully.
+1.658106985047425e-11 True 0 Optimization terminated successfully.
+1.658106985047425e-11 True
+-0.9999999808172166 True 0 Optimization terminated successfully.
+-0.9999999819134322 True 0 Optimization terminated successfully.
+-0.9999999944236588 True 0 Optimization terminated successfully.
+-0.9999999999998401 True 0 Optimization terminated successfully.
+-0.9999999828529722 True 0 Optimization terminated successfully.
+-0.999999977923042 True 0 Optimization terminated successfully.
+-0.9999999390546144 True 0 Optimization terminated successfully.
+-0.999999880941826 True 0 Optimization terminated successfully.
+-0.9999999906998935 True 0 Optimization terminated successfully.
+-0.9999999631896976 True 0 Optimization terminated successfully.
+-0.9999999842841816 True 0 Optimization terminated successfully.
+-0.9999999999958566 True 0 Optimization terminated successfully.
+-0.9999999999995932 True 0 Optimization terminated successfully.
+-0.9999999921248088 True 0 Optimization terminated successfully.
+-0.9999999959041759 True 0 Optimization terminated successfully.
+-0.9999999999993154 True 0 Optimization terminated successfully.
+-0.9999999999997553 True 0 Optimization terminated successfully.
+-0.9999999999997229 True 0 Optimization terminated successfully.
+1.7470047630752106e-10 True 0 Optimization terminated successfully.
+1.7470047630752106e-10 True
+-3.86628506987563e-11 True 0 Optimization terminated successfully.
+-1.2516643277393769e-10 True 0 Optimization terminated successfully.
+1.0731349142645286e-10 True 0 Optimization terminated successfully.
+1.0731349142645286e-10 True
+-3.2862601528904634e-14 True 0 Optimization terminated successfully.
+-9.477640894317574e-12 True 0 Optimization terminated successfully.
+3.575327811589091e-10 True 0 Optimization terminated successfully.
+3.575327811589091e-10 True
+-8.360867553847129e-12 True 0 Optimization terminated successfully.
+-4.8038906186320673e-11 True 0 Optimization terminated successfully.
+9.76652092532504e-11 True 0 Optimization terminated successfully.
+9.76652092532504e-11 True
+-0.9999999929025609 True 0 Optimization terminated successfully.
+-2.7755575615628914e-13 True 0 Optimization terminated successfully.
+5.31574784190525e-13 True 0 Optimization terminated successfully.
+5.31574784190525e-13 True
+-5.829337013096847e-12 True 0 Optimization terminated successfully.
+-8.7248142044416e-10 True 0 Optimization terminated successfully.
+6.096354532303394e-10 True 0 Optimization terminated successfully.
+6.096354532303394e-10 True
+-0.9999999977802561 True 0 Optimization terminated successfully.
+7.009029134863454e-09 True 0 Optimization terminated successfully.
+7.009029134863454e-09 True
+-0.9999999999998241 True 0 Optimization terminated successfully.
+-0.9999999999153948 True 0 Optimization terminated successfully.
+-0.9999999614079851 True 0 Optimization terminated successfully.
+2.664025666732073e-10 True 0 Optimization terminated successfully.
+2.664025666732073e-10 True
+-0.9999999990979624 True 0 Optimization terminated successfully.
+-8.881784197001252e-16 True 0 Optimization terminated successfully.
+-2.57667442937759e-10 True 0 Optimization terminated successfully.
+-2.9476387997107167e-10 True 0 Optimization terminated successfully.
+-2.546451938201244e-11 True 0 Optimization terminated successfully.
+1.4210854715202004e-14 True 0 Optimization terminated successfully.
+1.4210854715202004e-14 True
+-2.390754261227812e-12 True 0 Optimization terminated successfully.
+-0.9999999871014928 True 0 Optimization terminated successfully.
+-0.9999999999963531 True 0 Optimization terminated successfully.
+-4.753448190619736e-10 True 0 Optimization terminated successfully.
+5.275735404097759e-11 True 0 Optimization terminated successfully.
+5.275735404097759e-11 True
+-1.945944849701675e-09 True 0 Optimization terminated successfully.
+-1.0580336606835772e-10 True 0 Optimization terminated successfully.
+-2.26973995154367e-12 True 0 Optimization terminated successfully.
+1.1287909496005e-09 True 0 Optimization terminated successfully.
+1.1287909496005e-09 True
+-1.1483858308736217e-10 True 0 Optimization terminated successfully.
+1.545590322393764e-10 True 0 Optimization terminated successfully.
+1.545590322393764e-10 True
+-0.9999997654231692 True 0 Optimization terminated successfully.
+2.9195856843244883e-09 True 0 Optimization terminated successfully.
+2.9195856843244883e-09 True
+-3.234494894144291e-10 True 0 Optimization terminated successfully.
+-0.9999998675661068 True 0 Optimization terminated successfully.
+1.930011706008372e-12 True 0 Optimization terminated successfully.
+1.930011706008372e-12 True
+-0.9999999861945046 True 0 Optimization terminated successfully.
+-8.472333945519495e-12 True 0 Optimization terminated successfully.
+-0.9999999961829698 True 0 Optimization terminated successfully.
+9.776268683481248e-11 True 0 Optimization terminated successfully.
+9.776268683481248e-11 True
+-1.2153833495176514e-11 True 0 Optimization terminated successfully.
+-0.9999999917161198 True 0 Optimization terminated successfully.
+-0.9999998889635826 True 0 Optimization terminated successfully.
+-0.999999926960407 True 0 Optimization terminated successfully.
+-0.9999998889431971 True 0 Optimization terminated successfully.
+-0.9999999740086638 True 0 Optimization terminated successfully.
+-0.9999999848769416 True 0 Optimization terminated successfully.
+-0.9999999999967759 True 0 Optimization terminated successfully.
+-0.9999999829918664 True 0 Optimization terminated successfully.
+-0.9999999925689576 True 0 Optimization terminated successfully.
+-0.9999999568320623 True 0 Optimization terminated successfully.
+-0.9999999678499849 True 0 Optimization terminated successfully.
+-0.9999999942495359 True 0 Optimization terminated successfully.
+-0.9999999566069473 True 0 Optimization terminated successfully.
+-0.999999919679416 True 0 Optimization terminated successfully.
+-0.9999999998530855 True 0 Optimization terminated successfully.
+-0.9999999776916129 True 0 Optimization terminated successfully.
+-0.999999979893631 True 0 Optimization terminated successfully.
+-0.9999999999995901 True 0 Optimization terminated successfully.
+-0.9999999999997913 True 0 Optimization terminated successfully.
+-0.9999999999998943 True 0 Optimization terminated successfully.
+1.3175016633226733e-12 True 0 Optimization terminated successfully.
+1.3175016633226733e-12 True
+2.1825874441105952e-12 True 0 Optimization terminated successfully.
+2.1825874441105952e-12 True
+-2.7400304247748863e-13 True 0 Optimization terminated successfully.
+5.014185733287491e-09 True 0 Optimization terminated successfully.
+5.014185733287491e-09 True
+-8.038791854403371e-12 True 0 Optimization terminated successfully.
+7.138734048339757e-14 True 0 Optimization terminated successfully.
+7.138734048339757e-14 True
+1.2487233469471448e-13 True 0 Optimization terminated successfully.
+1.2487233469471448e-13 True
+3.442167328948642e-09 True 0 Optimization terminated successfully.
+3.442167328948642e-09 True
+3.1038616121747964e-11 True 0 Optimization terminated successfully.
+3.1038616121747964e-11 True
+1.5316081736216347e-12 True 0 Optimization terminated successfully.
+1.5316081736216347e-12 True
+2.724487302430134e-13 True 0 Optimization terminated successfully.
+2.724487302430134e-13 True
+1.6873086261526282e-09 True 0 Optimization terminated successfully.
+1.6873086261526282e-09 True
+2.653377517702893e-12 True 0 Optimization terminated successfully.
+2.653377517702893e-12 True
+3.0827973507285833e-10 True 0 Optimization terminated successfully.
+3.0827973507285833e-10 True
+2.8388402739665253e-13 True 0 Optimization terminated successfully.
+2.8388402739665253e-13 True
+-3.519406988061746e-13 True 0 Optimization terminated successfully.
+3.838511730691607e-10 True 0 Optimization terminated successfully.
+3.838511730691607e-10 True
+6.128153540174708e-12 True 0 Optimization terminated successfully.
+6.128153540174708e-12 True
+1.483900502474711e-09 True 0 Optimization terminated successfully.
+1.483900502474711e-09 True
+1.2218004385999848e-13 True 0 Optimization terminated successfully.
+1.2218004385999848e-13 True
+-2.4291679778798425e-13 True 0 Optimization terminated successfully.
+9.988454507947608e-12 True 0 Optimization terminated successfully.
+9.988454507947608e-12 True
+-3.484190713720636e-11 True 0 Optimization terminated successfully.
+-0.9999999756839895 True 0 Optimization terminated successfully.
+-1.0236478331648868e-11 True 0 Optimization terminated successfully.
+2.630784479151771e-11 True 0 Optimization terminated successfully.
+2.630784479151771e-11 True
+-2.0043411375070264e-12 True 0 Optimization terminated successfully.
+-9.126033262418787e-13 True 0 Optimization terminated successfully.
+5.260791802186304e-12 True 0 Optimization terminated successfully.
+5.260791802186304e-12 True
+1.4377388168895777e-13 True 0 Optimization terminated successfully.
+1.4377388168895777e-13 True
+3.552713678800501e-14 True 0 Optimization terminated successfully.
+3.552713678800501e-14 True
+-5.779319245391434e-10 True 0 Optimization terminated successfully.
+-5.377920331284258e-12 True 0 Optimization terminated successfully.
+6.4398486543382205e-12 True 0 Optimization terminated successfully.
+6.4398486543382205e-12 True
+3.763545031176818e-12 True 0 Optimization terminated successfully.
+3.763545031176818e-12 True
+6.137312880127865e-13 True 0 Optimization terminated successfully.
+6.137312880127865e-13 True
+-0.9999999952885448 True 0 Optimization terminated successfully.
+-1.2530687598655277e-09 True 0 Optimization terminated successfully.
+3.5536837916794184e-09 True 0 Optimization terminated successfully.
+3.5536837916794184e-09 True
+-5.413891557282113e-12 True 0 Optimization terminated successfully.
+-1.599400611951296e-10 True 0 Optimization terminated successfully.
+-1.6009416015094757e-13 True 0 Optimization terminated successfully.
+1.834163931846433e-10 True 0 Optimization terminated successfully.
+1.834163931846433e-10 True
+3.498223932751898e-10 True 0 Optimization terminated successfully.
+3.498223932751898e-10 True
+2.298383705578999e-12 True 0 Optimization terminated successfully.
+2.298383705578999e-12 True
+1.2396750292964498e-12 True 0 Optimization terminated successfully.
+1.2396750292964498e-12 True
+3.730891151576543e-10 True 0 Optimization terminated successfully.
+3.730891151576543e-10 True
+-0.9999999993111857 True 0 Optimization terminated successfully.
+2.1928314719588116e-10 True 0 Optimization terminated successfully.
+2.1928314719588116e-10 True
+-9.543477119677846e-13 True 0 Optimization terminated successfully.
+-1.8701082904470923e-09 True 0 Optimization terminated successfully.
+-1.2518874825673265e-12 True 0 Optimization terminated successfully.
+2.1782797787750496e-11 True 0 Optimization terminated successfully.
+2.1782797787750496e-11 True
+-1.9017382113517556e-10 True 0 Optimization terminated successfully.
+-6.794564910705958e-14 True 0 Optimization terminated successfully.
+4.7359671739855e-11 True 0 Optimization terminated successfully.
+4.7359671739855e-11 True
+3.260725023324085e-13 True 0 Optimization terminated successfully.
+3.260725023324085e-13 True
+3.171929385814565e-11 True 0 Optimization terminated successfully.
+3.171929385814565e-11 True
+1.4393852776350968e-09 True 0 Optimization terminated successfully.
+1.4393852776350968e-09 True
+6.149303288793817e-12 True 0 Optimization terminated successfully.
+6.149303288793817e-12 True
+-1.744717259555273e-09 True 0 Optimization terminated successfully.
+-0.9999999763959462 True 0 Optimization terminated successfully.
+2.353672812205332e-14 True 0 Optimization terminated successfully.
+2.353672812205332e-14 True
+-2.311129065901696e-11 True 0 Optimization terminated successfully.
+1.389999226830696e-13 True 0 Optimization terminated successfully.
+1.389999226830696e-13 True
+-8.611416024706386e-10 True 0 Optimization terminated successfully.
+-7.283063041541027e-14 True 0 Optimization terminated successfully.
+-1.0715495157853638e-10 True 0 Optimization terminated successfully.
+-4.632960681760778e-11 True 0 Optimization terminated successfully.
+-1.8728352202401766e-10 True 0 Optimization terminated successfully.
+-2.042810365310288e-13 True 0 Optimization terminated successfully.
+-4.3767434121377846e-11 True 0 Optimization terminated successfully.
+-0.9999999999720046 True 0 Optimization terminated successfully.
+-0.9999997476393103 True 0 Optimization terminated successfully.
+-0.9999996512400795 True 0 Optimization terminated successfully.
+-1.1131429111799207e-11 True 0 Optimization terminated successfully.
+-0.9999999887362172 True 0 Optimization terminated successfully.
+-1.2796430581829554e-12 True 0 Optimization terminated successfully.
+-0.9999999997282103 True 0 Optimization terminated successfully.
+-0.999999999980834 True 0 Optimization terminated successfully.
+-0.9999999999786535 True 0 Optimization terminated successfully.
+-0.9999997745867333 True 0 Optimization terminated successfully.
+-0.9999999556795585 True 0 Optimization terminated successfully.
+-0.9999999997246842 True 0 Optimization terminated successfully.
+-0.9999999999999645 True 0 Optimization terminated successfully.
+-0.999999497783266 True 0 Optimization terminated successfully.
+-0.9999997407360093 True 0 Optimization terminated successfully.
+-0.9999999513302544 True 0 Optimization terminated successfully.
+-0.9999999823437831 True 0 Optimization terminated successfully.
+-0.9999995215841411 True 0 Optimization terminated successfully.
+-0.99999999997525 True 0 Optimization terminated successfully.
+-0.9999999873981693 True 0 Optimization terminated successfully.
+-0.9999999521541962 True 0 Optimization terminated successfully.
+-0.9999999018554124 True 0 Optimization terminated successfully.
+-0.9999999965405928 True 0 Optimization terminated successfully.
+-0.9999999987401818 True 0 Optimization terminated successfully.
+6.059107660050245e-10 True 0 Optimization terminated successfully.
+6.059107660050245e-10 True
+2.2999158133529818e-11 True 0 Optimization terminated successfully.
+2.2999158133529818e-11 True
+1.3206880034033475e-10 True 0 Optimization terminated successfully.
+1.3206880034033475e-10 True
+1.4017675908917226e-11 True 0 Optimization terminated successfully.
+1.4017675908917226e-11 True
+3.497202527569243e-14 True 0 Optimization terminated successfully.
+3.497202527569243e-14 True
+-6.10673289713759e-10 True 0 Optimization terminated successfully.
+-2.3792079417717105e-13 True 0 Optimization terminated successfully.
+1.0025402730207134e-10 True 0 Optimization terminated successfully.
+1.0025402730207134e-10 True
+-1.3967279000048904e-09 True 0 Optimization terminated successfully.
+-1.8211082641883536e-09 True 0 Optimization terminated successfully.
+3.5915714846623814e-13 True 0 Optimization terminated successfully.
+3.5915714846623814e-13 True
+6.001139585265491e-10 True 0 Optimization terminated successfully.
+6.001139585265491e-10 True
+-4.502254680183171e-10 True 0 Optimization terminated successfully.
+-0.9999999821367087 True 0 Optimization terminated successfully.
+-4.735323244631218e-12 True 0 Optimization terminated successfully.
+-2.0135515477193167e-10 True 0 Optimization terminated successfully.
+1.6954242454403357e-09 True 0 Optimization terminated successfully.
+1.6954242454403357e-09 True
+-1.8320678307759408e-11 True 0 Optimization terminated successfully.
+1.6958123794097446e-10 True 0 Optimization terminated successfully.
+1.6958123794097446e-10 True
+-9.279466084421983e-12 True 0 Optimization terminated successfully.
+-2.3367974222310295e-12 True 0 Optimization terminated successfully.
+-7.347455976969286e-12 True 0 Optimization terminated successfully.
+-0.9999999660279055 True 0 Optimization terminated successfully.
+1.0323630839081943e-10 True 0 Optimization terminated successfully.
+1.0323630839081943e-10 True
+-0.9999999999997184 True 0 Optimization terminated successfully.
+5.295319738252147e-12 True 0 Optimization terminated successfully.
+5.295319738252147e-12 True
+-1.1648959574728224e-10 True 0 Optimization terminated successfully.
+1.0006262485262596e-10 True 0 Optimization terminated successfully.
+1.0006262485262596e-10 True
+-0.9999999948419638 True 0 Optimization terminated successfully.
+4.677480625048247e-11 True 0 Optimization terminated successfully.
+4.677480625048247e-11 True
+-6.41553477009893e-11 True 0 Optimization terminated successfully.
+-0.9999999999567075 True 0 Optimization terminated successfully.
+1.4485745936099192e-11 True 0 Optimization terminated successfully.
+1.4485745936099192e-11 True
+-0.9999999379505153 True 0 Optimization terminated successfully.
+-0.9999999999691687 True 0 Optimization terminated successfully.
+-4.804157072157977e-12 True 0 Optimization terminated successfully.
+-0.9999999963732344 True 0 Optimization terminated successfully.
+-5.0111026439481066e-12 True 0 Optimization terminated successfully.
+-0.9999999807557121 True 0 Optimization terminated successfully.
+-0.9999999131823909 True 0 Optimization terminated successfully.
+-0.9999999999551754 True 0 Optimization terminated successfully.
+-0.9999995928665344 True 0 Optimization terminated successfully.
+-0.9999999856245405 True 0 Optimization terminated successfully.
+-0.9999999999991154 True 0 Optimization terminated successfully.
+-0.9999998121362665 True 0 Optimization terminated successfully.
+-0.9999999685679937 True 0 Optimization terminated successfully.
+-0.9999998172603615 True 0 Optimization terminated successfully.
+-0.9999998647016906 True 0 Optimization terminated successfully.
+-0.9999999987986437 True 0 Optimization terminated successfully.
+-0.9999999999774944 True 0 Optimization terminated successfully.
+-0.9999999908762307 True 0 Optimization terminated successfully.
+-0.9999999999314815 True 0 Optimization terminated successfully.
+-0.9999999838200795 True 0 Optimization terminated successfully.
+-0.9999999880343324 True 0 Optimization terminated successfully.
+-0.999999999999577 True 0 Optimization terminated successfully.
+-0.9999999963528501 True 0 Optimization terminated successfully.
+1.1496434498825536e-09 True 0 Optimization terminated successfully.
+1.1496434498825536e-09 True
+3.204991827487902e-11 True 0 Optimization terminated successfully.
+3.204991827487902e-11 True
+5.376280531876887e-10 True 0 Optimization terminated successfully.
+5.376280531876887e-10 True
+4.919271656689261e-10 True 0 Optimization terminated successfully.
+4.919271656689261e-10 True
+1.0044542975151671e-10 True 0 Optimization terminated successfully.
+1.0044542975151671e-10 True
+-0.9999999887868434 True 0 Optimization terminated successfully.
+-1.0271783423831948e-12 True 0 Optimization terminated successfully.
+6.450340261920928e-12 True 0 Optimization terminated successfully.
+6.450340261920928e-12 True
+1.8147150449010496e-11 True 0 Optimization terminated successfully.
+1.8147150449010496e-11 True
+4.347633364432113e-13 True 0 Optimization terminated successfully.
+4.347633364432113e-13 True
+-1.1288747714388592e-12 True 0 Optimization terminated successfully.
+-2.1716184406272987e-11 True 0 Optimization terminated successfully.
+-0.9999999601630458 True 0 Optimization terminated successfully.
+-0.999999998178146 True 0 Optimization terminated successfully.
+1.3861800596259855e-11 True 0 Optimization terminated successfully.
+1.3861800596259855e-11 True
+-0.9999999999690126 True 0 Optimization terminated successfully.
+5.061284724661164e-12 True 0 Optimization terminated successfully.
+5.061284724661164e-12 True
+-0.9999999713538754 True 0 Optimization terminated successfully.
+-1.0000000000000848 True 0 Optimization terminated successfully.
+-5.575762074272461e-12 True 0 Optimization terminated successfully.
+-0.9999999999190416 True 0 Optimization terminated successfully.
+-1.475486399726833e-12 True 0 Optimization terminated successfully.
+-0.9999999924363294 True 0 Optimization terminated successfully.
+-0.9999999621624607 True 0 Optimization terminated successfully.
+-0.999999953728401 True 0 Optimization terminated successfully.
+-0.9999999797816184 True 0 Optimization terminated successfully.
+-0.9999999935508215 True 0 Optimization terminated successfully.
+-0.9999999999999725 True 0 Optimization terminated successfully.
+-0.9999999729576778 True 0 Optimization terminated successfully.
+-0.9999999908762942 True 0 Optimization terminated successfully.
+-0.9999999723630735 True 0 Optimization terminated successfully.
+-0.9999999904155903 True 0 Optimization terminated successfully.
+-0.9999999998545004 True 0 Optimization terminated successfully.
+-0.9999999593028912 True 0 Optimization terminated successfully.
+-0.9999999921191862 True 0 Optimization terminated successfully.
+-0.9999999999996398 True 0 Optimization terminated successfully.
+-0.9999999984617043 True 0 Optimization terminated successfully.
+-0.9999999964084241 True 0 Optimization terminated successfully.
+-0.9999999976297229 True 0 Optimization terminated successfully.
+-0.9999999956573848 True 0 Optimization terminated successfully.
+-5.129230373768223e-13 True 0 Optimization terminated successfully.
+-7.776890242894297e-12 True 0 Optimization terminated successfully.
+-1.525624071518905e-11 True 0 Optimization terminated successfully.
+-0.9999999822703547 True 0 Optimization terminated successfully.
+-0.9999999992827506 True 0 Optimization terminated successfully.
+-0.9999999996817881 True 0 Optimization terminated successfully.
+-0.9999999800463613 True 0 Optimization terminated successfully.
+-1.0000000000000067 True 0 Optimization terminated successfully.
+-3.1610269957127457e-12 True 0 Optimization terminated successfully.
+-0.9999999999910782 True 0 Optimization terminated successfully.
+-2.8426936360403943e-09 True 0 Optimization terminated successfully.
+-0.9999999972199722 True 0 Optimization terminated successfully.
+-0.999999978861247 True 0 Optimization terminated successfully.
+-0.999999969244965 True 0 Optimization terminated successfully.
+-0.9999999910434028 True 0 Optimization terminated successfully.
+-0.999999996478409 True 0 Optimization terminated successfully.
+-0.9999999999999414 True 0 Optimization terminated successfully.
+-0.9999999847479097 True 0 Optimization terminated successfully.
+-0.9999999941197837 True 0 Optimization terminated successfully.
+-0.9999999856835871 True 0 Optimization terminated successfully.
+-0.9999999938910831 True 0 Optimization terminated successfully.
+-0.9999999999893561 True 0 Optimization terminated successfully.
+-0.9999999729320539 True 0 Optimization terminated successfully.
+-0.9999999943172759 True 0 Optimization terminated successfully.
+-0.9999999999999702 True 0 Optimization terminated successfully.
+-0.9999999995374873 True 0 Optimization terminated successfully.
+-0.9999999982783923 True 0 Optimization terminated successfully.
+-0.9999999998762257 True 0 Optimization terminated successfully.
+-0.9999999997654738 True 0 Optimization terminated successfully.
+5.102187117245194e-09 True 0 Optimization terminated successfully.
+5.102187117245194e-09 True
+2.2494059948030554e-09 True 0 Optimization terminated successfully.
+2.2494059948030554e-09 True
+6.417442133255236e-09 True 0 Optimization terminated successfully.
+6.417442133255236e-09 True
+3.452051977603787e-10 True 0 Optimization terminated successfully.
+3.452051977603787e-10 True
+-1.0457412713549274e-11 True 0 Optimization terminated successfully.
+9.00390872971002e-13 True 0 Optimization terminated successfully.
+9.00390872971002e-13 True
+-0.9999999941497011 True 0 Optimization terminated successfully.
+2.2510882047299674e-12 True 0 Optimization terminated successfully.
+2.2510882047299674e-12 True
+-1.0000000000004619 True 0 Optimization terminated successfully.
+1.3782308627696693e-12 True 0 Optimization terminated successfully.
+1.3782308627696693e-12 True
+-0.9999999998284173 True 0 Optimization terminated successfully.
+-0.9999999999491869 True 0 Optimization terminated successfully.
+-1.8991253014633003e-11 True 0 Optimization terminated successfully.
+-0.999999986535542 True 0 Optimization terminated successfully.
+-0.9999999999999902 True 0 Optimization terminated successfully.
+-2.5794921754140887e-12 True 0 Optimization terminated successfully.
+-1.8998358441990604e-11 True 0 Optimization terminated successfully.
+-1.0000000000000648 True 0 Optimization terminated successfully.
+1.2333467580560864e-12 True 0 Optimization terminated successfully.
+1.2333467580560864e-12 True
+9.259260025373806e-14 True 0 Optimization terminated successfully.
+9.259260025373806e-14 True
+-0.9999999999982041 True 0 Optimization terminated successfully.
+-0.9999999967277873 True 0 Optimization terminated successfully.
+-0.9999999820193075 True 0 Optimization terminated successfully.
+-0.99999999304561 True 0 Optimization terminated successfully.
+-1.1712852909795402e-12 True 0 Optimization terminated successfully.
+-0.9999999999999418 True 0 Optimization terminated successfully.
+-0.9999999863963565 True 0 Optimization terminated successfully.
+-3.2800429039525625e-12 True 0 Optimization terminated successfully.
+-0.9999999803059492 True 0 Optimization terminated successfully.
+-0.9999999934874015 True 0 Optimization terminated successfully.
+-0.9999999999999787 True 0 Optimization terminated successfully.
+-0.9999999852886372 True 0 Optimization terminated successfully.
+-0.9999999961377166 True 0 Optimization terminated successfully.
+-0.9999999999998987 True 0 Optimization terminated successfully.
+-0.9999999998753655 True 0 Optimization terminated successfully.
+-0.999999999654589 True 0 Optimization terminated successfully.
+-0.9999999941757065 True 0 Optimization terminated successfully.
+-1.7279511155265936e-11 True 0 Optimization terminated successfully.
+-0.9999999833961422 True 0 Optimization terminated successfully.
+-0.999999626911027 True 0 Optimization terminated successfully.
+-0.9999999998128775 True 0 Optimization terminated successfully.
+-0.999999999947945 True 0 Optimization terminated successfully.
+-2.3604451726555453e-12 True 0 Optimization terminated successfully.
+-0.9999999893420597 True 0 Optimization terminated successfully.
+-1.0000000000000662 True 0 Optimization terminated successfully.
+-3.789191183045659e-12 True 0 Optimization terminated successfully.
+-2.363831352880652e-12 True 0 Optimization terminated successfully.
+-0.9999999999999725 True 0 Optimization terminated successfully.
+-0.9999999999982041 True 0 Optimization terminated successfully.
+-0.9999999967277873 True 0 Optimization terminated successfully.
+-0.9999999820193075 True 0 Optimization terminated successfully.
+-0.99999999304561 True 0 Optimization terminated successfully.
+-1.1712852909795402e-12 True 0 Optimization terminated successfully.
+-0.9999999999999418 True 0 Optimization terminated successfully.
+-0.9999999863963565 True 0 Optimization terminated successfully.
+-3.2800429039525625e-12 True 0 Optimization terminated successfully.
+-0.9999999803059492 True 0 Optimization terminated successfully.
+-0.9999999934874015 True 0 Optimization terminated successfully.
+-0.9999999999999787 True 0 Optimization terminated successfully.
+-0.9999999852886372 True 0 Optimization terminated successfully.
+-0.9999999961377166 True 0 Optimization terminated successfully.
+-0.9999999999998987 True 0 Optimization terminated successfully.
+-0.9999999998753655 True 0 Optimization terminated successfully.
+-0.999999999654589 True 0 Optimization terminated successfully.
+-0.9999999941757065 True 0 Optimization terminated successfully.
+-1.7279511155265936e-11 True 0 Optimization terminated successfully.
+-0.9999999833961422 True 0 Optimization terminated successfully.
+-0.999999626911027 True 0 Optimization terminated successfully.
+-0.9999999998128775 True 0 Optimization terminated successfully.
+-0.999999999947945 True 0 Optimization terminated successfully.
+-2.3604451726555453e-12 True 0 Optimization terminated successfully.
+-0.9999999893420597 True 0 Optimization terminated successfully.
+-1.0000000000000662 True 0 Optimization terminated successfully.
+-3.789191183045659e-12 True 0 Optimization terminated successfully.
+-2.363831352880652e-12 True 0 Optimization terminated successfully.
+-0.9999999999999725 True 0 Optimization terminated successfully.
+-0.9999999999982041 True 0 Optimization terminated successfully.
+-0.9999999967277873 True 0 Optimization terminated successfully.
+-0.9999999820193075 True 0 Optimization terminated successfully.
+-0.99999999304561 True 0 Optimization terminated successfully.
+-1.1712852909795402e-12 True 0 Optimization terminated successfully.
+-0.9999999999999418 True 0 Optimization terminated successfully.
+-0.9999999863963565 True 0 Optimization terminated successfully.
+-3.2800429039525625e-12 True 0 Optimization terminated successfully.
+-0.9999999803059492 True 0 Optimization terminated successfully.
+-0.9999999934874015 True 0 Optimization terminated successfully.
+-0.9999999999999787 True 0 Optimization terminated successfully.
+-0.9999999852886372 True 0 Optimization terminated successfully.
+-0.9999999961377166 True 0 Optimization terminated successfully.
+-0.9999999999998987 True 0 Optimization terminated successfully.
+-0.9999999998753655 True 0 Optimization terminated successfully.
+-0.999999999654589 True 0 Optimization terminated successfully.
+-0.9999999941757065 True 0 Optimization terminated successfully.
+-1.7279511155265936e-11 True 0 Optimization terminated successfully.
+-0.9999999833961422 True 0 Optimization terminated successfully.
+-0.999999626911027 True 0 Optimization terminated successfully.
+-0.9999999998128775 True 0 Optimization terminated successfully.
+-0.999999999947945 True 0 Optimization terminated successfully.
+-2.3604451726555453e-12 True 0 Optimization terminated successfully.
+-0.9999999893420597 True 0 Optimization terminated successfully.
+-1.0000000000000662 True 0 Optimization terminated successfully.
+-3.789191183045659e-12 True 0 Optimization terminated successfully.
+-2.363831352880652e-12 True 0 Optimization terminated successfully.
+-0.9999999999999725 True 0 Optimization terminated successfully.
+-0.9999999999982041 True 0 Optimization terminated successfully.
+-0.9999999967277873 True 0 Optimization terminated successfully.
+-0.9999999820193075 True 0 Optimization terminated successfully.
+-0.99999999304561 True 0 Optimization terminated successfully.
+-1.1712852909795402e-12 True 0 Optimization terminated successfully.
+-0.9999999999999418 True 0 Optimization terminated successfully.
+-0.9999999863963565 True 0 Optimization terminated successfully.
+-3.2800429039525625e-12 True 0 Optimization terminated successfully.
+-0.9999999803059492 True 0 Optimization terminated successfully.
+-0.9999999934874015 True 0 Optimization terminated successfully.
+-0.9999999999999787 True 0 Optimization terminated successfully.
+-0.9999999852886372 True 0 Optimization terminated successfully.
+-0.9999999961377166 True 0 Optimization terminated successfully.
+-0.9999999999998987 True 0 Optimization terminated successfully.
+-0.9999999998753655 True 0 Optimization terminated successfully.
+-0.9999999997600655 True 0 Optimization terminated successfully.
+-0.9999999969346947 True 0 Optimization terminated successfully.
+6.449757394833e-10 True 0 Optimization terminated successfully.
+6.449757394833e-10 True
+7.549516567451064e-15 True 0 Optimization terminated successfully.
+7.549516567451064e-15 True
+1.3670080623029435e-09 True 0 Optimization terminated successfully.
+1.3670080623029435e-09 True
+6.800715546262381e-11 True 0 Optimization terminated successfully.
+6.800715546262381e-11 True
+-4.280997778494111e-11 True 0 Optimization terminated successfully.
+1.144427885790833e-10 True 0 Optimization terminated successfully.
+1.144427885790833e-10 True
+1.2800871473928055e-11 True 0 Optimization terminated successfully.
+1.2800871473928055e-11 True
+-0.9999999899383538 True 0 Optimization terminated successfully.
+1.5410167586438206e-10 True 0 Optimization terminated successfully.
+1.5410167586438206e-10 True
+-3.384403868267327e-11 True 0 Optimization terminated successfully.
+6.799460994244555e-11 True 0 Optimization terminated successfully.
+6.799460994244555e-11 True
+1.1648249031992464e-10 True 0 Optimization terminated successfully.
+1.1648249031992464e-10 True
+-3.42070816117257e-12 True 0 Optimization terminated successfully.
+1.166955421183502e-12 True 0 Optimization terminated successfully.
+1.166955421183502e-12 True
+1.9488854974269998e-12 True 0 Optimization terminated successfully.
+1.9488854974269998e-12 True
+-0.9999999987762256 True 0 Optimization terminated successfully.
+-0.9999999999306888 True 0 Optimization terminated successfully.
+1.210586075828246e-10 True 0 Optimization terminated successfully.
+1.210586075828246e-10 True
+-2.205791105325261e-12 True 0 Optimization terminated successfully.
+-0.9999999999999893 True 0 Optimization terminated successfully.
+1.9246493287994326e-11 True 0 Optimization terminated successfully.
+1.9246493287994326e-11 True
+5.728306717855958e-11 True 0 Optimization terminated successfully.
+5.728306717855958e-11 True
+-0.9999999999999911 True 0 Optimization terminated successfully.
+-0.9999999999988596 True 0 Optimization terminated successfully.
+-0.9999999928865391 True 0 Optimization terminated successfully.
+-1.622858514238601e-09 True 0 Optimization terminated successfully.
+-0.9999999891649205 True 0 Optimization terminated successfully.
+-2.5446311724408588e-12 True 0 Optimization terminated successfully.
+-0.9999999999999201 True 0 Optimization terminated successfully.
+3.5993430458347575e-13 True 0 Optimization terminated successfully.
+3.5993430458347575e-13 True
+1.909204377925633e-09 True 0 Optimization terminated successfully.
+1.909204377925633e-09 True
+-0.999999976292238 True 0 Optimization terminated successfully.
+-0.9999999854591932 True 0 Optimization terminated successfully.
+-0.9999999997266515 True 0 Optimization terminated successfully.
+-0.9999999957059469 True 0 Optimization terminated successfully.
+-0.999999999998701 True 0 Optimization terminated successfully.
+-0.9999999994548889 True 0 Optimization terminated successfully.
+-0.9999999997629687 True 0 Optimization terminated successfully.
+-0.9999999999995342 True 0 Optimization terminated successfully.
+-3.8531489110482653e-10 True 0 Optimization terminated successfully.
+-0.9999999852608528 True 0 Optimization terminated successfully.
+-3.303801676679541e-11 True 0 Optimization terminated successfully.
+2.133404564119701e-12 True 0 Optimization terminated successfully.
+2.133404564119701e-12 True
+-0.9999999968166808 True 0 Optimization terminated successfully.
+-0.9999999997997446 True 0 Optimization terminated successfully.
+-4.555023025432092e-12 True 0 Optimization terminated successfully.
+-0.9999999999999836 True 0 Optimization terminated successfully.
+-1.0000000000000058 True 0 Optimization terminated successfully.
+-0.999999999988054 True 0 Optimization terminated successfully.
+-0.9999999902412178 True 0 Optimization terminated successfully.
+-1.7497840953950572e-09 True 0 Optimization terminated successfully.
+-0.9999999920977833 True 0 Optimization terminated successfully.
+-2.1092017021828724e-12 True 0 Optimization terminated successfully.
+-0.9999999994779736 True 0 Optimization terminated successfully.
+-0.9999999783292122 True 0 Optimization terminated successfully.
+-0.9999999864406259 True 0 Optimization terminated successfully.
+-0.9999999997703668 True 0 Optimization terminated successfully.
+-0.9999999957913732 True 0 Optimization terminated successfully.
+-0.9999999999995066 True 0 Optimization terminated successfully.
+-0.9999999995317175 True 0 Optimization terminated successfully.
+-0.9999999998287503 True 0 Optimization terminated successfully.
+-0.9999999983516439 True 0 Optimization terminated successfully.
+6.755843107164594e-10 True 0 Optimization terminated successfully.
+6.755843107164594e-10 True
+-0.9999999842521037 True 0 Optimization terminated successfully.
+2.2244428521389636e-12 True 0 Optimization terminated successfully.
+2.2244428521389636e-12 True
+-0.9999999995543671 True 0 Optimization terminated successfully.
+-0.9999999999187668 True 0 Optimization terminated successfully.
+-2.8113067429558214e-12 True 0 Optimization terminated successfully.
+-0.9999999999999867 True 0 Optimization terminated successfully.
+-0.9999999996034048 True 0 Optimization terminated successfully.
+-0.9999999999997478 True 0 Optimization terminated successfully.
+-0.9999999956330248 True 0 Optimization terminated successfully.
+-8.829210695893153e-10 True 0 Optimization terminated successfully.
+-0.9999999974188509 True 0 Optimization terminated successfully.
+-1.503908109157237e-12 True 0 Optimization terminated successfully.
+-0.9999999892373568 True 0 Optimization terminated successfully.
+-0.9999999956970531 True 0 Optimization terminated successfully.
+-0.9999999999398299 True 0 Optimization terminated successfully.
+-0.9999999988044128 True 0 Optimization terminated successfully.
+-0.9999999999999809 True 0 Optimization terminated successfully.
+-0.9999999998449893 True 0 Optimization terminated successfully.
+-0.9999999999553026 True 0 Optimization terminated successfully.
+-0.9999999977002489 True 0 Optimization terminated successfully.
+-0.9999999861208342 True 0 Optimization terminated successfully.
+-0.9999999995543671 True 0 Optimization terminated successfully.
+-0.9999999999187668 True 0 Optimization terminated successfully.
+-2.8113067429558214e-12 True 0 Optimization terminated successfully.
+-0.9999999999999867 True 0 Optimization terminated successfully.
+-0.9999999996034048 True 0 Optimization terminated successfully.
+-0.9999999999997478 True 0 Optimization terminated successfully.
+-0.9999999956330248 True 0 Optimization terminated successfully.
+-8.829210695893153e-10 True 0 Optimization terminated successfully.
+-0.9999999974188509 True 0 Optimization terminated successfully.
+-1.503908109157237e-12 True 0 Optimization terminated successfully.
+-0.9999999892373568 True 0 Optimization terminated successfully.
+-0.9999999956970531 True 0 Optimization terminated successfully.
+-0.9999999999398299 True 0 Optimization terminated successfully.
+-0.9999999988044128 True 0 Optimization terminated successfully.
+-0.9999999999999809 True 0 Optimization terminated successfully.
+-0.9999999998449893 True 0 Optimization terminated successfully.
+-0.9999999998964961 True 0 Optimization terminated successfully.
+-0.9999999985933572 True 0 Optimization terminated successfully.
+-0.9999999894505907 True 0 Optimization terminated successfully.
+-0.9999999999039351 True 0 Optimization terminated successfully.
+-0.9999999999519409 True 0 Optimization terminated successfully.
+2.610134330893743e-12 True 0 Optimization terminated successfully.
+2.610134330893743e-12 True
+-0.9999999998750155 True 0 Optimization terminated successfully.
+1.0642196013321836e-09 True 0 Optimization terminated successfully.
+1.0642196013321836e-09 True
+4.379005158483551e-09 True 0 Optimization terminated successfully.
+4.379005158483551e-09 True
+6.543654507140673e-13 True 0 Optimization terminated successfully.
+6.543654507140673e-13 True
+-0.9999999999257918 True 0 Optimization terminated successfully.
+2.771216367492002e-09 True 0 Optimization terminated successfully.
+2.771216367492002e-09 True
+-0.9999999997917148 True 0 Optimization terminated successfully.
+-0.9999999998022058 True 0 Optimization terminated successfully.
+-0.9999999990980868 True 0 Optimization terminated successfully.
+-0.99999999950383 True 0 Optimization terminated successfully.
+-0.9999999998657949 True 0 Optimization terminated successfully.
+-0.9999999999987379 True 0 Optimization terminated successfully.
+-0.9999999999550198 True 0 Optimization terminated successfully.
+-0.9999999991582023 True 0 Optimization terminated successfully.
+-0.9999999994785829 True 0 Optimization terminated successfully.
+-0.9999999999844023 True 0 Optimization terminated successfully.
+-0.9999999999719411 True 0 Optimization terminated successfully.
+-0.9999999999855956 True 0 Optimization terminated successfully.
+-0.999999999917925 True 0 Optimization terminated successfully.
+-0.9999999997917148 True 0 Optimization terminated successfully.
+-0.9999999998022058 True 0 Optimization terminated successfully.
+-0.9999999990980868 True 0 Optimization terminated successfully.
+-0.99999999950383 True 0 Optimization terminated successfully.
+-0.9999999998657949 True 0 Optimization terminated successfully.
+-0.9999999999987379 True 0 Optimization terminated successfully.
+-0.9999999999650511 True 0 Optimization terminated successfully.
+-0.9999999994163904 True 0 Optimization terminated successfully.
+-0.9999999996869868 True 0 Optimization terminated successfully.
+-0.9999999999808125 True 0 Optimization terminated successfully.
+-0.999999999980822 True 0 Optimization terminated successfully.
+-0.9999999999335565 True 0 Optimization terminated successfully.
+-0.9999999999050415 True 0 Optimization terminated successfully.
+-0.9999999999283253 True 0 Optimization terminated successfully.
+-0.9999999999050408 True 0 Optimization terminated successfully.
+-0.9999999999283378 True 0 Optimization terminated successfully.
+-0.9999999998929567 True 0 Optimization terminated successfully.
+-0.9999999999989586 True 0 Optimization terminated successfully.
+-0.9999999999650511 True 0 Optimization terminated successfully.
+-0.9999999994163904 True 0 Optimization terminated successfully.
+-0.9999999996869868 True 0 Optimization terminated successfully.
+-0.9999999999808125 True 0 Optimization terminated successfully.
+-0.999999999980822 True 0 Optimization terminated successfully.
+-0.9999999999335565 True 0 Optimization terminated successfully.
+-0.9999999999050415 True 0 Optimization terminated successfully.
+-0.9999999999283253 True 0 Optimization terminated successfully.
+-0.9999999999050408 True 0 Optimization terminated successfully.
+-0.9999999999283378 True 0 Optimization terminated successfully.
+-0.9999999998929567 True 0 Optimization terminated successfully.
+-0.9999999999989586 True 0 Optimization terminated successfully.
+-0.999999999979968 True 0 Optimization terminated successfully.
+-0.9999999998640825 True 0 Optimization terminated successfully.
+-0.9999999998969749 True 0 Optimization terminated successfully.
+-0.999999999979569 True 0 Optimization terminated successfully.
+-0.9999999999795683 True 0 Optimization terminated successfully.
+-0.9999999999989058 True 0 Optimization terminated successfully.
+-0.9999999998795097 True 0 Optimization terminated successfully.
+-0.9999999999988898 True 0 Optimization terminated successfully.
+-0.9999999998794973 True 0 Optimization terminated successfully.
+-0.9999999997709303 True 0 Optimization terminated successfully.
+-0.9999999999997644 True 0 Optimization terminated successfully.
+-0.999999999979968 True 0 Optimization terminated successfully.
+-0.9999999998640825 True 0 Optimization terminated successfully.
+-0.9999999998969749 True 0 Optimization terminated successfully.
+-0.999999999979569 True 0 Optimization terminated successfully.
+-0.9999999999795683 True 0 Optimization terminated successfully.
+-0.9999999999989058 True 0 Optimization terminated successfully.
+-0.9999999998795097 True 0 Optimization terminated successfully.
+-0.9999999999988898 True 0 Optimization terminated successfully.
+-0.9999999998794973 True 0 Optimization terminated successfully.
+-0.9999999997709303 True 0 Optimization terminated successfully.
+-0.9999999999997644 True 0 Optimization terminated successfully.
+-0.9999999999539653 True 0 Optimization terminated successfully.
+-0.9999999999980194 True 0 Optimization terminated successfully.
+-0.9999999999807816 True 0 Optimization terminated successfully.
+-0.999999999980778 True 0 Optimization terminated successfully.
+-0.9999999999930642 True 0 Optimization terminated successfully.
+-0.9999999999905902 True 0 Optimization terminated successfully.
+-0.9999999999930784 True 0 Optimization terminated successfully.
+-0.9999999999905915 True 0 Optimization terminated successfully.
+-0.999999999815639 True 0 Optimization terminated successfully.
+-0.9999999410471774 True 0 Optimization terminated successfully.
+-0.9999999999539653 True 0 Optimization terminated successfully.
+-0.9999999999980194 True 0 Optimization terminated successfully.
+-0.9999999999807816 True 0 Optimization terminated successfully.
+-0.999999999980778 True 0 Optimization terminated successfully.
+-0.9999999999930642 True 0 Optimization terminated successfully.
+-0.9999999999905902 True 0 Optimization terminated successfully.
+-0.9999999999930784 True 0 Optimization terminated successfully.
+-0.9999999999905915 True 0 Optimization terminated successfully.
+-0.999999999815639 True 0 Optimization terminated successfully.
+-0.9999999410471774 True 0 Optimization terminated successfully.
+[[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, -1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 2.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, -1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, -1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, -1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, -1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, -1, 0, 0, 0], [-1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, -1, 0, 0, 0], [-1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0], [-1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0]] 10
+This is the C_cone after Fourier Motzkin elimination of all unobserved variables' occurences...and it looks correct because we tested Fourier Motzkin individually and it gave the correct answers
+[[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 1, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, -1, 0, 0, 0], [-1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, -1, 0, 0, 0], [-1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0], [-1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0]] 9
+This is the I_cone after removing constraints...again correct because no number is in decimals showing it never entered remove_constraints since there are no observed conditional independences
+[[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, -1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, -1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, -1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, -1, 0, 0, 0], [-1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, -1, 0, 0, 0], [-1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0], [-1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0]] 9
+This is the list  of non interesting inequalities that are in C and I
+[[-1.0, 0.0, 0.0, 0.0, 2.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, -1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, -1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0]] 1
+This is the list of inequalities that are in C_cone but not in I_cone....They are 16...and there are no occurences of unobserved vraibles
