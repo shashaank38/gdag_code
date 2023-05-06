@@ -1,0 +1,19 @@
+[['', '', 'B', 'ABC', 'CD', 'AE'], 'BDEF']    is interesting
+[['', '', 'AB', '', 'BD', 'ACE'], 'CDEF']    is interesting
+[['', '', 'B', 'AC', 'BCD', 'AE'], 'BDEF']    is interesting
+[['', '', 'B', 'ABC', 'BCD', 'AE'], 'BDEF']    is interesting
+[['', '', 'AB', '', 'BCD', 'ACE'], 'CDEF']    is interesting
+[['', '', '', 'BC', 'AD', 'AB'], 'CDEF']    is interesting
+[['', '', 'A', 'BC', 'CD', 'BE'], 'ADEF']    is interesting
+[['', '', 'AB', 'AC', 'BD', 'A'], 'CDEF']    is interesting
+[['', '', '', 'ABC', 'BCD', 'AE'], 'BDEF']    is interesting
+[['', '', 'B', 'ABC', 'BCD', 'AE'], 'CDEF']    is interesting
+[['', '', 'AB', 'AC', 'BD', 'AD'], 'CDEF']    is interesting
+[['', '', 'AB', 'B', 'BCD', 'AE'], 'CDEF']    is interesting
+[['', '', '', 'BC', 'AC', 'AB'], 'DEF']     could not be checked
+[['', '', 'B', 'ABC', 'BD', 'AE'], 'CDEF']    is interesting
+[['', '', '', 'BC', 'ACD', 'AB'], 'CDEF']     could not be checked
+[['', '', '', 'BC', 'AD', 'ABE'], 'CDEF']    is interesting
+[['', '', '', 'BC', 'AC', 'AB'], 'ADEF']     could not be checked
+[['', '', 'AB', '', 'BCD', 'AE'], 'CDEF']    is interesting
+Number of interesting GDAGS that could be checked is:  15

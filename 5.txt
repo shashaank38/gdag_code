@@ -1,0 +1,3 @@
+[['', '', 'AB', 'BC', 'AC'], 'CDE']    is interesting
+[['', '', '', 'AC', 'AB'], 'BCDE']     is not interesting
+Number of interesting GDAGS that could be checked is:  1

@@ -1,0 +1,177 @@
+[['', '', 'AB', 'AC'], 'BCD']    is interesting
+The required (X,Y,Z,W) are: ( D , B ,  , C )
+[['', '', 'AB', 'BC', 'AC'], 'CDE']    is interesting
+The required (X,Y,Z,W) are: ( E , D ,  , C )
+[['', '', '', 'AC', 'AB'], 'BCDE']     could not be checked
+[['', '', 'AB', '', 'BD', 'ACE'], 'CDEF']    is interesting
+The required (X,Y,Z,W) are: ( CF , D ,  , E )
+[['', '', '', 'BC', 'AD', 'ABE'], 'CDEF']    is interesting
+The required (X,Y,Z,W) are: ( EF , C ,  , D )
+[['', '', 'A', 'BC', 'CD', 'BE'], 'ADEF']    is interesting
+The required (X,Y,Z,W) are: ( F , A ,  , DE )
+[['', '', 'AB', '', 'BCD', 'AE'], 'CDEF']    is interesting
+The required (X,Y,Z,W) are: ( CF , D ,  , E )
+[['', '', '', 'BC', 'AC', 'AB'], 'DEF']     could not be checked
+[['', '', 'AB', 'AC', 'BD', 'AD'], 'CDEF']    is interesting
+The required (X,Y,Z,W) are: ( F , E ,  , CD )
+[['', '', 'AB', 'AC', 'BD', 'A'], 'CDEF']    is interesting
+The required (X,Y,Z,W) are: ( F , E ,  , CD )
+[['', '', 'B', 'ABC', 'BD', 'AE'], 'CDEF']    is interesting
+The required (X,Y,Z,W) are: ( F , C ,  , DE )
+[['', '', 'B', 'ABC', 'BCD', 'AE'], 'BDEF']    is interesting
+The required (X,Y,Z,W) are: ( F , B ,  , DE )
+[['', '', 'AB', 'B', 'BCD', 'AE'], 'CDEF']    is interesting
+The required (X,Y,Z,W) are: ( F , D ,  , CE )
+[['', '', '', 'BC', 'AC', 'AB'], 'ADEF']     could not be checked
+[['', '', 'B', 'ABC', 'CD', 'AE'], 'BDEF']    is interesting
+The required (X,Y,Z,W) are: ( F , B ,  , DE )
+[['', '', '', 'BC', 'ACD', 'AB'], 'CDEF']     could not be checked
+[['', '', 'AB', '', 'BCD', 'ACE'], 'CDEF']    is interesting
+The required (X,Y,Z,W) are: ( CF , D ,  , E )
+[['', '', '', 'ABC', 'BCD', 'AE'], 'BDEF']    is interesting
+The required (X,Y,Z,W) are: ( F , B ,  , DE )
+[['', '', 'B', 'AC', 'BCD', 'AE'], 'BDEF']    is interesting
+The required (X,Y,Z,W) are: ( F , B ,  , DE )
+[['', '', '', 'BC', 'AD', 'AB'], 'CDEF']    is interesting
+The required (X,Y,Z,W) are: ( EF , C ,  , D )
+[['', '', 'B', 'ABC', 'BCD', 'AE'], 'CDEF']    is interesting
+The required (X,Y,Z,W) are: ( F , C ,  , DE )
+[['', '', 'AB', 'C', 'CD', 'BCDE', 'AF'], 'CEFG']    is interesting
+The required (X,Y,Z,W) are: ( G , E , C , F )
+[['', '', 'AB', 'C', 'CD', 'BDE', 'ACF'], 'CEFG']    is interesting
+The required (X,Y,Z,W) are: ( G , E , C , F )
+[['', '', '', 'BC', 'AC', 'ABE', 'ABDF'], 'DEFG']     could not be checked
+[['', '', 'B', 'BC', 'ABCD', 'BDE', 'AF'], 'CEFG']    is interesting
+The required (X,Y,Z,W) are: ( G , C ,  , EF )
+[['', '', '', 'BC', 'AC', 'BDE', 'AF'], 'DEFG']    is interesting
+The required (X,Y,Z,W) are: ( G , D ,  , EF )
+[['', '', '', 'BC', 'ACD', 'BE', 'AD'], 'DEFG']    is interesting
+The required (X,Y,Z,W) are: ( G , F , D , E )
+[['', '', '', 'BC', 'AC', 'ABE', 'AD'], 'DEFG']     could not be checked
+[['', '', 'B', 'BC', 'ABCD', 'CDE', 'AF'], 'CEFG']    is interesting
+The required (X,Y,Z,W) are: ( G , C ,  , EF )
+[['', '', 'AB', 'C', 'BCD', 'ACE', 'D'], 'CEFG']    is interesting
+The required (X,Y,Z,W) are: ( G , F , C , E )
+[['', '', '', 'BC', 'AC', 'ABE', 'ADF'], 'DEFG']     could not be checked
+[['', '', '', 'C', 'BCD', 'ADE', 'AB'], 'CEFG']     could not be checked
+[['', '', '', 'BC', 'AD', 'CE', 'AB'], 'DEFG']    is interesting
+The required (X,Y,Z,W) are: ( G , F ,  , DE )
+[['', '', '', 'C', 'BD', 'ACDE', 'AB'], 'CEFG']     could not be checked
+[['', '', 'B', 'BC', 'ACD', 'BCDE', 'AF'], 'CEFG']    is interesting
+The required (X,Y,Z,W) are: ( G , C ,  , EF )
+[['', '', '', 'BC', 'ACD', 'BE', 'AF'], 'DEFG']    is interesting
+The required (X,Y,Z,W) are: ( G , D ,  , EF )
+[['', '', '', 'C', 'BCD', 'ACDE', 'AB'], 'DEFG']     could not be checked
+[['', '', 'AB', 'BC', '', 'ABDE', 'ACDF'], 'EFG']    is interesting
+The required (X,Y,Z,W) are: ( G , E ,  , F )
+[['', '', 'AB', 'C', 'BCD', 'DE', 'AE'], 'CEFG']    is interesting
+The required (X,Y,Z,W) are: ( G , F , C , E )
+[['', '', 'AB', 'C', 'D', 'BDE', 'ACF'], 'CEFG']    is interesting
+The required (X,Y,Z,W) are: ( G , E , C , F )
+[['', '', 'AB', 'C', 'BCD', 'DE', 'ACE'], 'CEFG']    is interesting
+The required (X,Y,Z,W) are: ( G , F , C , E )
+[['', '', '', 'BC', 'AC', 'ABE', 'ABD'], 'DEFG']     could not be checked
+[['', '', '', 'BC', 'AC', 'BE', 'ADF'], 'DEFG']     could not be checked
+[['', '', '', 'BC', 'AD', 'ACE', 'ABF'], 'DEFG']     could not be checked
+[['', '', 'B', 'BC', 'ABD', 'DE', 'AF'], 'CEFG']    is interesting
+The required (X,Y,Z,W) are: ( G , C ,  , EF )
+[['', '', 'B', 'BC', 'ABD', 'CDE', 'AF'], 'CEFG']    is interesting
+The required (X,Y,Z,W) are: ( G , C ,  , EF )
+[['', '', '', 'BC', 'ACD', 'BDE', 'AD'], 'DEFG']    is interesting
+The required (X,Y,Z,W) are: ( G , F , D , E )
+[['', '', '', 'AC', 'BD', 'BCE', 'AE'], 'DEFG']    is interesting
+The required (X,Y,Z,W) are: ( G , F ,  , DE )
+[['', '', '', 'ABC', 'CD', 'BE', 'AE'], 'DEFG']    is interesting
+The required (X,Y,Z,W) are: ( G , F ,  , DE )
+[['', '', '', 'AC', 'BC', 'AE', 'ABDF'], 'DEFG']     could not be checked
+[['', '', 'B', 'C', 'ABCD', 'BDE', 'AF'], 'CEFG']    is interesting
+The required (X,Y,Z,W) are: ( G , C ,  , EF )
+[['', '', 'AB', 'C', 'BD', 'AE', 'D'], 'CEFG']    is interesting
+The required (X,Y,Z,W) are: ( G , F , C , E )
+[['', '', 'B', 'C', 'ABD', 'BDE', 'AF'], 'CEFG']    is interesting
+The required (X,Y,Z,W) are: ( G , C ,  , EF )
+[['', '', 'B', 'BC', 'AD', 'BCDE', 'AF'], 'CEFG']    is interesting
+The required (X,Y,Z,W) are: ( G , C ,  , EF )
+[['', '', '', 'AC', 'ABD', 'BC', 'A'], 'DEFG']     could not be checked
+[['', '', 'AB', 'BC', '', 'ACDE', 'ABDF'], 'EFG']    is interesting
+The required (X,Y,Z,W) are: ( G , E ,  , F )
+[['', '', 'AB', 'C', 'BD', 'AE', 'CD'], 'CEFG']    is interesting
+The required (X,Y,Z,W) are: ( G , F , C , E )
+[['', '', 'AB', 'C', 'CD', 'BDE', 'AF'], 'CEFG']    is interesting
+The required (X,Y,Z,W) are: ( G , E , C , F )
+[['', '', 'AB', '', 'CD', 'BCDE', 'ACF'], 'CEFG']    is interesting
+The required (X,Y,Z,W) are: ( G , E , C , F )
+[['', '', '', 'AC', 'BD', 'BCDE', 'AF'], 'DEFG']    is interesting
+The required (X,Y,Z,W) are: ( G , E , D , F )
+[['', '', '', 'C', 'BCD', 'ACE', 'AB'], 'DEFG']     could not be checked
+[['', '', 'AB', 'C', 'BCD', 'ACE', 'CD'], 'CEFG']    is interesting
+The required (X,Y,Z,W) are: ( G , F , C , E )
+[['', '', 'B', 'C', 'ABCD', 'BCDE', 'AF'], 'CEFG']    is interesting
+The required (X,Y,Z,W) are: ( G , C ,  , EF )
+[['', '', '', 'BC', 'AC', 'BDE', 'AD'], 'DEFG']    is interesting
+The required (X,Y,Z,W) are: ( G , F , E , D )
+[['', '', 'B', 'BC', 'ABD', 'BDE', 'AF'], 'CEFG']    is interesting
+The required (X,Y,Z,W) are: ( G , C ,  , EF )
+[['', '', '', 'A', 'CD', 'BDE', 'BC'], 'AEFG']     could not be checked
+[['', '', 'AB', 'C', 'BCD', 'AE', 'CD'], 'CEFG']    is interesting
+The required (X,Y,Z,W) are: ( G , F , C , E )
+[['', '', '', '', 'BCD', 'ACDE', 'AB'], 'CEFG']     could not be checked
+[['', '', '', 'BC', 'AC', 'BE', 'AD'], 'DEFG']    is interesting
+The required (X,Y,Z,W) are: ( G , F , E , D )
+[['', '', 'AB', 'C', 'BD', 'ACE', 'CD'], 'CEFG']    is interesting
+The required (X,Y,Z,W) are: ( G , F , C , E )
+[['', '', 'B', 'BC', 'AD', 'BDE', 'AF'], 'CEFG']    is interesting
+The required (X,Y,Z,W) are: ( G , C ,  , EF )
+[['', '', 'AB', 'C', 'BCD', 'AE', 'D'], 'CEFG']    is interesting
+The required (X,Y,Z,W) are: ( G , F , C , E )
+[['', '', '', 'BC', 'ACD', 'BDE', 'AF'], 'DEFG']    is interesting
+The required (X,Y,Z,W) are: ( G , D ,  , EF )
+[['', '', 'AB', 'C', 'D', 'BDE', 'AF'], 'CEFG']    is interesting
+The required (X,Y,Z,W) are: ( G , E , C , F )
+[['', '', 'AB', '', 'BCD', 'CDE', 'ACE'], 'CEFG']    is interesting
+The required (X,Y,Z,W) are: ( G , F , C , E )
+[['', '', '', 'C', 'BCD', 'ACDE', 'AB'], 'CEFG']     could not be checked
+[['', '', 'AB', 'C', 'D', 'BCDE', 'AF'], 'CEFG']    is interesting
+The required (X,Y,Z,W) are: ( G , E , C , F )
+[['', '', 'B', 'C', 'ABD', 'BCDE', 'AF'], 'CEFG']    is interesting
+The required (X,Y,Z,W) are: ( G , C ,  , EF )
+[['', '', 'AB', 'C', 'BCD', 'CDE', 'ACE'], 'CEFG']    is interesting
+The required (X,Y,Z,W) are: ( G , F , C , E )
+[['', '', 'AB', 'C', 'D', 'BCDE', 'ACF'], 'CEFG']    is interesting
+The required (X,Y,Z,W) are: ( G , E , C , F )
+[['', '', '', 'BC', 'AD', 'CE', 'ABEF'], 'DEFG']     could not be checked
+[['', '', 'B', 'BC', 'ABCD', 'DE', 'AF'], 'CEFG']    is interesting
+The required (X,Y,Z,W) are: ( G , C ,  , EF )
+[['', '', '', 'BC', 'AD', 'CE', 'ABF'], 'DEFG']     could not be checked
+[['', '', 'AB', 'C', 'BD', 'ACE', 'D'], 'CEFG']    is interesting
+The required (X,Y,Z,W) are: ( G , F , C , E )
+[['', '', '', 'BC', 'C', 'ACDE', 'AB'], 'DEFG']     could not be checked
+[['', '', 'AB', '', 'BD', 'CDE', 'ACE'], 'CEFG']    is interesting
+The required (X,Y,Z,W) are: ( G , F , E , C )
+[['', '', 'AB', 'C', 'BD', 'CDE', 'AE'], 'CEFG']    is interesting
+The required (X,Y,Z,W) are: ( G , F , C , E )
+[['', '', 'B', 'BC', 'ACD', 'BDE', 'AF'], 'CEFG']    is interesting
+The required (X,Y,Z,W) are: ( G , C ,  , EF )
+[['', '', 'AB', 'C', 'CD', 'BCDE', 'ACF'], 'CEFG']    is interesting
+The required (X,Y,Z,W) are: ( G , E , C , F )
+[['', '', 'AB', 'C', 'BD', 'DE', 'ACE'], 'CEFG']    is interesting
+The required (X,Y,Z,W) are: ( G , F , C , E )
+[['', '', '', 'AC', 'BD', 'BCE', 'AF'], 'DEFG']    is interesting
+The required (X,Y,Z,W) are: ( G , E , D , F )
+[['', '', '', 'BC', 'AD', 'ACE', 'ABEF'], 'DEFG']     could not be checked
+[['', '', 'B', 'BC', 'ABD', 'BCDE', 'AF'], 'CEFG']    is interesting
+The required (X,Y,Z,W) are: ( G , C ,  , EF )
+[['', '', 'AB', 'C', 'BD', 'CDE', 'ACE'], 'CEFG']    is interesting
+The required (X,Y,Z,W) are: ( G , F , C , E )
+[['', '', '', 'AC', 'BD', 'BCE', 'AEF'], 'DEFG']     could not be checked
+[['', '', 'AB', '', 'CD', 'BDE', 'ACF'], 'CEFG']    is interesting
+The required (X,Y,Z,W) are: ( G , E , C , F )
+[['', '', 'AB', 'C', 'BCD', 'CDE', 'AE'], 'CEFG']    is interesting
+The required (X,Y,Z,W) are: ( G , F , C , E )
+[['', '', 'B', 'BC', 'ABCD', 'BCDE', 'AF'], 'CEFG']    is interesting
+The required (X,Y,Z,W) are: ( G , C ,  , EF )
+[['', '', '', 'AC', 'BCD', 'BDE', 'AE'], 'DEFG']    is interesting
+The required (X,Y,Z,W) are: ( G , F , D , E )
+[['', '', 'AB', 'C', 'BD', 'DE', 'AE'], 'CEFG']    is interesting
+The required (X,Y,Z,W) are: ( G , F , C , E )
+Number of interesting GDAGS that could be checked is:  76

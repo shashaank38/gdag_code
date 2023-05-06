@@ -1,0 +1,2 @@
+[['', '', 'AB', 'AC'], 'BCD']    is interesting
+Number of interesting GDAGS that could be checked is:  1
