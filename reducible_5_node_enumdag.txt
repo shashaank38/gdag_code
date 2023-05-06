@@ -1,0 +1,191 @@
+[['', '', 'AB', 'AC', 'AC'], 'BCDE']    is interesting
+The required (X,Y,Z,W) are: ( E , B ,  , CD )
+[['', '', 'AB', 'BC', 'ACD'], 'ACDE']    is interesting
+The required (X,Y,Z,W) are: ( D , A ,  , CE )
+[['', '', 'AB', 'AC', 'CD'], 'BCDE']    is interesting
+The required (X,Y,Z,W) are: ( D , B ,  , CE )
+[['', 'A', 'A', 'BC', 'BD'], 'ACDE']    is interesting
+The required (X,Y,Z,W) are: ( E , C , A , D )
+[['', 'A', '', 'ABC', 'BD'], 'CDE']    is interesting
+The required (X,Y,Z,W) are: ( E , C ,  , D )
+[['', 'A', 'B', 'ABC', 'ABD'], 'BCDE']    is interesting
+The required (X,Y,Z,W) are: ( E , C , B , D )
+[['', '', 'AB', 'BC', 'A'], 'CDE']    is interesting
+The required (X,Y,Z,W) are: ( E , D ,  , C )
+[['', 'A', '', 'ABC', 'ABD'], 'ACDE']    is interesting
+The required (X,Y,Z,W) are: ( E , C , A , D )
+[['', '', 'AB', 'AC', 'ACD'], 'BCDE']    is interesting
+The required (X,Y,Z,W) are: ( E , B ,  , CD )
+[['', '', 'AB', 'AC', 'D'], 'BCDE']    is interesting
+The required (X,Y,Z,W) are: ( D , B ,  , CE )
+[['', '', 'AB', 'BC', 'AD'], 'ACD']    is interesting
+The required (X,Y,Z,W) are: ( D , A ,  , C )
+[['', 'A', 'B', 'AC', 'BCD'], 'ABDE']    is interesting
+The required (X,Y,Z,W) are: ( E , A , B , D )
+[['', 'A', 'B', 'ABC', 'CD'], 'ABDE']    is interesting
+The required (X,Y,Z,W) are: ( E , A , B , D )
+[['', 'A', 'B', 'AC', 'ABD'], 'BCDE']    is interesting
+The required (X,Y,Z,W) are: ( E , C , B , D )
+[['', '', 'AB', 'AC', 'CD'], 'BCD']    is interesting
+The required (X,Y,Z,W) are: ( D , B ,  , C )
+[['', '', '', 'AC', 'ABD'], 'CDE']    is interesting
+The required (X,Y,Z,W) are: ( E , C ,  , D )
+[['', '', 'AB', 'AC', 'C'], 'BCD']    is interesting
+The required (X,Y,Z,W) are: ( D , B ,  , C )
+[['', '', 'AB', 'BC', 'ACD'], 'BCDE']    is interesting
+The required (X,Y,Z,W) are: ( E , B ,  , CD )
+[['', '', 'AB', 'AC', 'ACD'], 'BCD']    is interesting
+The required (X,Y,Z,W) are: ( D , B ,  , C )
+[['', '', 'AB', 'AC', 'D'], 'BCD']    is interesting
+The required (X,Y,Z,W) are: ( D , B ,  , C )
+[['', 'A', '', 'ABC', 'BD'], 'ACDE']    is interesting
+The required (X,Y,Z,W) are: ( E , C , A , D )
+[['', 'A', '', 'ABC', 'ABD'], 'CDE']    is interesting
+The required (X,Y,Z,W) are: ( E , C ,  , D )
+[['', '', 'AB', 'C', 'ACD'], 'BCDE']    is interesting
+The required (X,Y,Z,W) are: ( E , B ,  , CD )
+[['', '', 'AB', 'BC', 'AC'], 'ACDE']    is interesting
+The required (X,Y,Z,W) are: ( D , A ,  , CE )
+[['', '', 'AB', 'AB', 'ACD'], 'BCDE']    is interesting
+The required (X,Y,Z,W) are: ( E , B ,  , CD )
+[['', 'A', '', 'BC', 'AD'], 'CDE']    is interesting
+The required (X,Y,Z,W) are: ( E , C ,  , D )
+[['', '', 'A', 'ABC', 'ABD'], 'ACDE']    is interesting
+The required (X,Y,Z,W) are: ( E , C , A , D )
+[['', '', 'AB', 'AC', 'ABCD'], 'BCD']    is interesting
+The required (X,Y,Z,W) are: ( D , B ,  , C )
+[['', '', 'AB', 'AC', 'D'], 'BCE']    is interesting
+The required (X,Y,Z,W) are: ( E , B ,  , C )
+[['', '', 'AB', 'AC', 'AD'], 'BDE']    is interesting
+The required (X,Y,Z,W) are: ( E , B ,  , D )
+[['', '', 'AB', 'ABC', 'AC'], 'BCDE']    is interesting
+The required (X,Y,Z,W) are: ( E , B ,  , CD )
+[['', '', '', 'AC', 'AB'], 'BCDE']     could not be checked
+[['', 'A', 'B', 'ABC', 'BCD'], 'ABDE']    is interesting
+The required (X,Y,Z,W) are: ( E , A , B , D )
+[['', 'A', '', 'AC', 'BD'], 'CDE']    is interesting
+The required (X,Y,Z,W) are: ( E , C ,  , D )
+[['', '', 'AB', 'BC', 'A'], 'ACD']    is interesting
+The required (X,Y,Z,W) are: ( D , A ,  , C )
+[['', '', 'AB', 'AC', 'AD'], 'BCDE']    is interesting
+The required (X,Y,Z,W) are: ( E , B ,  , CD )
+[['', '', 'AB', 'ABC', 'ACD'], 'BCDE']    is interesting
+The required (X,Y,Z,W) are: ( E , B ,  , CD )
+[['', '', 'AB', 'BC', 'AC'], 'ACD']    is interesting
+The required (X,Y,Z,W) are: ( D , A ,  , C )
+[['', '', 'AB', 'ABC', 'AD'], 'BCDE']    is interesting
+The required (X,Y,Z,W) are: ( E , B ,  , CD )
+[['', '', 'AB', 'AC', 'A'], 'BCDE']    is interesting
+The required (X,Y,Z,W) are: ( D , B , E , C )
+[['', '', 'AB', 'BC', 'AC'], 'CDE']    is interesting
+The required (X,Y,Z,W) are: ( E , D ,  , C )
+[['', 'A', '', 'ABC', 'AD'], 'BCDE']    is interesting
+The required (X,Y,Z,W) are: ( E , C , B , D )
+[['', '', 'AB', 'AC', 'AC'], 'BCD']    is interesting
+The required (X,Y,Z,W) are: ( D , B ,  , C )
+[['', '', 'AB', 'BC', 'ACD'], 'ACD']    is interesting
+The required (X,Y,Z,W) are: ( D , A ,  , C )
+[['', '', 'AB', 'C', 'ACD'], 'BCE']    is interesting
+The required (X,Y,Z,W) are: ( E , B ,  , C )
+[['', '', '', 'ABC', 'ABD'], 'ACDE']    is interesting
+The required (X,Y,Z,W) are: ( E , C , A , D )
+[['', '', 'AB', 'C', 'AD'], 'BCE']    is interesting
+The required (X,Y,Z,W) are: ( E , B ,  , C )
+[['', 'A', '', 'BC', 'BD'], 'CDE']    is interesting
+The required (X,Y,Z,W) are: ( E , C ,  , D )
+[['', '', 'AB', 'AC', ''], 'BCDE']    is interesting
+The required (X,Y,Z,W) are: ( D , B , E , C )
+[['', '', 'AB', 'AC', 'AD'], 'BCD']    is interesting
+The required (X,Y,Z,W) are: ( D , B ,  , C )
+[['', '', 'AB', 'AC', 'C'], 'BCDE']    is interesting
+The required (X,Y,Z,W) are: ( D , B ,  , CE )
+[['', '', 'AB', 'AC', 'A'], 'BCD']    is interesting
+The required (X,Y,Z,W) are: ( D , B ,  , C )
+[['', '', 'AB', 'C', 'AD'], 'BDE']    is interesting
+The required (X,Y,Z,W) are: ( E , B ,  , D )
+[['', '', 'AB', 'ABC', 'AC'], 'BCE']    is interesting
+The required (X,Y,Z,W) are: ( E , B ,  , C )
+[['', '', 'AB', 'BC', 'AD'], 'BDE']    is interesting
+The required (X,Y,Z,W) are: ( E , B ,  , D )
+[['', 'A', '', 'BC', 'ABD'], 'CDE']    is interesting
+The required (X,Y,Z,W) are: ( E , C ,  , D )
+[['', 'A', 'B', 'ABC', 'AD'], 'BCDE']    is interesting
+The required (X,Y,Z,W) are: ( E , C , B , D )
+[['', '', 'AB', 'AC', 'AB'], 'BCDE']    is interesting
+The required (X,Y,Z,W) are: ( D , B ,  , CE )
+[['', '', 'AB', 'C', 'AD'], 'BCDE']    is interesting
+The required (X,Y,Z,W) are: ( E , B ,  , CD )
+[['', '', 'AB', 'AC', 'ABD'], 'BCDE']    is interesting
+The required (X,Y,Z,W) are: ( D , B ,  , CE )
+[['', '', 'AB', 'AC', 'AD'], 'BCE']    is interesting
+The required (X,Y,Z,W) are: ( E , B ,  , C )
+[['', 'A', 'A', 'ABC', 'ABD'], 'ACDE']    is interesting
+The required (X,Y,Z,W) are: ( E , C , A , D )
+[['', '', 'AB', 'BC', 'AD'], 'BCDE']    is interesting
+The required (X,Y,Z,W) are: ( E , B ,  , CD )
+[['', '', 'AB', 'AC', ''], 'BCD']    is interesting
+The required (X,Y,Z,W) are: ( D , B ,  , C )
+[['', 'A', 'B', 'AC', 'CD'], 'ABDE']    is interesting
+The required (X,Y,Z,W) are: ( E , A , B , D )
+[['', '', '', 'ABC', 'ABD'], 'CDE']    is interesting
+The required (X,Y,Z,W) are: ( E , C ,  , D )
+[['', '', 'B', 'ABC', 'AD'], 'BDE']    is interesting
+The required (X,Y,Z,W) are: ( E , B ,  , D )
+[['', 'A', 'A', 'ABC', 'BD'], 'ACDE']    is interesting
+The required (X,Y,Z,W) are: ( E , C , A , D )
+[['', '', 'AB', 'AC', 'ABCD'], 'BCDE']    is interesting
+The required (X,Y,Z,W) are: ( D , B ,  , CE )
+[['', '', '', 'AC', 'ABD'], 'BCDE']    is interesting
+The required (X,Y,Z,W) are: ( E , C , B , D )
+[['', 'A', 'B', 'AC', 'AD'], 'BCDE']    is interesting
+The required (X,Y,Z,W) are: ( E , C , B , D )
+[['', '', 'B', 'AC', 'ABD'], 'BCDE']    is interesting
+The required (X,Y,Z,W) are: ( E , C , B , D )
+[['', '', 'B', 'ABC', 'AD'], 'CDE']    is interesting
+The required (X,Y,Z,W) are: ( E , C ,  , D )
+[['', 'A', '', 'BC', 'BD'], 'ACDE']    is interesting
+The required (X,Y,Z,W) are: ( E , C , A , D )
+[['', '', 'B', 'AC', 'AD'], 'BDE']    is interesting
+The required (X,Y,Z,W) are: ( E , B ,  , D )
+[['', '', 'AB', 'ABC', 'AD'], 'BDE']    is interesting
+The required (X,Y,Z,W) are: ( E , B ,  , D )
+[['', '', 'B', 'ABC', 'AD'], 'BCDE']    is interesting
+The required (X,Y,Z,W) are: ( E , C , B , D )
+[['', '', 'B', 'AC', 'AB'], 'BCDE']     could not be checked
+[['', '', 'AB', 'BC', 'A'], 'ACDE']    is interesting
+The required (X,Y,Z,W) are: ( D , A , E , C )
+[['', 'A', '', 'ABC', 'ABD'], 'BCDE']    is interesting
+The required (X,Y,Z,W) are: ( E , C , B , D )
+[['', '', 'AB', 'AC', 'AB'], 'BCD']    is interesting
+The required (X,Y,Z,W) are: ( D , B ,  , C )
+[['', '', 'AB', 'AC', 'CD'], 'BCE']    is interesting
+The required (X,Y,Z,W) are: ( E , B ,  , C )
+[['', 'A', '', 'AC', 'ABD'], 'CDE']    is interesting
+The required (X,Y,Z,W) are: ( E , C ,  , D )
+[['', '', 'B', 'AC', 'AD'], 'CDE']    is interesting
+The required (X,Y,Z,W) are: ( E , C ,  , D )
+[['', '', 'AB', 'B', 'ACD'], 'BCDE']    is interesting
+The required (X,Y,Z,W) are: ( E , B , D , C )
+[['', '', '', 'ABC', 'AD'], 'BDE']    is interesting
+The required (X,Y,Z,W) are: ( E , B ,  , D )
+[['', 'A', '', 'AC', 'ABD'], 'BCDE']    is interesting
+The required (X,Y,Z,W) are: ( E , C , B , D )
+[['', '', 'AB', 'AC', 'ABD'], 'BCD']    is interesting
+The required (X,Y,Z,W) are: ( D , B ,  , C )
+[['', '', 'B', 'AC', 'AD'], 'BCDE']    is interesting
+The required (X,Y,Z,W) are: ( E , C , B , D )
+[['', 'A', '', 'BC', 'ABD'], 'ACDE']    is interesting
+The required (X,Y,Z,W) are: ( E , C , A , D )
+[['', 'A', '', 'ABC', 'AD'], 'CDE']    is interesting
+The required (X,Y,Z,W) are: ( E , C ,  , D )
+[['', '', 'AB', 'BC', 'AD'], 'ACDE']    is interesting
+The required (X,Y,Z,W) are: ( D , A ,  , CE )
+[['', '', 'AB', 'AC', 'ACD'], 'BCE']    is interesting
+The required (X,Y,Z,W) are: ( E , B ,  , C )
+[['', '', '', 'ABC', 'AD'], 'BCDE']    is interesting
+The required (X,Y,Z,W) are: ( E , C , B , D )
+[['', 'A', 'A', 'BC', 'ABD'], 'ACDE']    is interesting
+The required (X,Y,Z,W) are: ( E , C , A , D )
+[['', '', 'B', 'ABC', 'ACD'], 'BCDE']    is interesting
+The required (X,Y,Z,W) are: ( E , B , C , D )
+Number of interesting GDAGS that could be checked is:  94
